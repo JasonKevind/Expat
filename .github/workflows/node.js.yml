@@ -3,14 +3,15 @@
 
 name: Node.js CI
 
+
+env:
+  CI: ""
+
+
 on:
   push:
     branches: [ "master" ]
   
-
-env:
-  CI: false
-
 
 jobs:
   build:
