@@ -10,7 +10,7 @@ export const Header=()=>{
                 document.getElementById("Right").style.display="flex";
             }
         },[window.innerWidth])
-    },[window.innerWidth])
+    },[])
     return (
         <div className='Header'>
             <div>
@@ -18,7 +18,7 @@ export const Header=()=>{
                 <GiHamburgerMenu id='ham' size={40} color='#333' onClick={(e)=>{
                     
                     e.preventDefault();
-                    document.getElementById("Right").style.display=((document.getElementById("Right").style.display=='none')?"flex":"none");
+                    document.getElementById("Right").style.display=((document.getElementById("Right").style.display==='none')?"flex":"none");
                 }} />
 
             </div>
@@ -37,7 +37,7 @@ export const Header=()=>{
                         document.getElementById("Migrations").style.display="none";
                     }}>
                     <p className='Services'>Permanent Residency</p>
-                     <div id="Migrations" style={{display:'flex',flexDirection:'column',position:'absolute',display:'none'}}>
+                     <div id="Migrations" style={{flexDirection:'column',position:'absolute',display:'none'}}>
                         <p onClick={(e)=>nav("/PR",{state:{country:"canada"}})}>Canada</p>
                         <p>Australia</p>
                         <p>New Zealand</p>

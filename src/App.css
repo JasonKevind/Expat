@@ -74,7 +74,7 @@
 .MainContent>div:nth-child(1){
   display: flex;width:40%;
   align-items: flex-end;
-  justify-content: end;padding: 30px 10px;
+  justify-content: flex-end;padding: 30px 10px;
 }
 .MainContent>div:nth-child(2){
   display: flex;width:60%;

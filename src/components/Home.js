@@ -1,6 +1,5 @@
 import '../App.css';
 import { Flags } from './Flags';
-import { Footer } from './Footer';
 import { Image } from './Image';
 import { MainContent } from './MainContent';
 export const Home=(props)=>{

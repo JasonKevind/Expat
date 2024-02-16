@@ -1,14 +1,11 @@
-import { useLocation, useNavigate } from 'react-router-dom';
+import { useLocation } from 'react-router-dom';
 import '../App.css';
 import { Image } from './Image';
 import { MainContent } from './MainContent';
 import { Header } from './Header';
 import { ReadMore } from './ReadMore';
-import { useEffect } from 'react';
 export const Country=()=>{
     const loc=useLocation();
-    const nav=useNavigate();
-
     const data={"uk":{headimg:"ukhome.JPG","headhead":"UK","headinfo":"dndjnjs sionos osjdkn","maincontent":[
                 {"main":"mainuk","img":"uktower.JPG","head":"Why to study in UK","info":<div>A degree from a UK institution could be a to proficient success. Wherever within the world you select to seek after your career, a degree from a college within the joined together Kingdom is globally regarded and considered quality instruction.....<br></br>
                 <ReadMore country={"uk"} link={'Why'} />
@@ -38,17 +35,6 @@ export const Country=()=>{
             </div>}]
             }
         }
-        useEffect((e)=>{
-           if(Object.keys(loc.state).length>1){
-            document.getElementById(loc.state.specific+loc.state.country).scrollIntoView({behavior:"instant"})
-           }
-        },[loc.pathname])
-        useEffect((e)=>{
-            if(Object.keys(loc.state).length>1){
-             document.getElementById(loc.state.specific+loc.state.country).scrollIntoView({behavior:"instant"})
-            }
-         },[])
-    
     return(
         <>
             {

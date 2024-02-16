@@ -1,7 +1,6 @@
 import '../App.css';
 import { IoArrowDownCircle } from "react-icons/io5";
 import { Header } from './Header';
-import { MainContent } from './MainContent';
 export const Image=(props)=>{
     return (
       <div style={{height:"clamp(620px,95vh,1000px)",backgroundImage:`url(../${props.img})`,
