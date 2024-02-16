@@ -23,7 +23,7 @@ export const Image=(props)=>{
             onClick={(e)=>{
               e.preventDefault();
               
-              document.getElementById("main").scrollIntoView({behavior:"smooth"});
+              document.getElementById("main"+props.country).scrollIntoView({behavior:"smooth"});
             }}
             >
               <IoArrowDownCircle size={50} color='white'/>

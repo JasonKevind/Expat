@@ -4,7 +4,7 @@ export const ReadMore=(props)=>{
     const nav=useNavigate();
     return (
         <button onClick={(e)=>{e.preventDefault();
-            nav("/Why",{state:{country:props.country}})
+            nav(`/${props.link}`,{state:{country:props.country}})
             }} className='underline' style={{cursor:'pointer'}}>READ MORE</button>
     )
 }

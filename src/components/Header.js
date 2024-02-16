@@ -38,10 +38,10 @@ export const Header=()=>{
                     }}>
                     <p className='Services'>Permanent Residency</p>
                      <div id="Migrations" style={{display:'flex',flexDirection:'column',position:'absolute',display:'none'}}>
-                        <a>Canada</a>
-                        <a>Australia</a>
-                        <a>New Zealand</a>
-                        <a>Hong-Kong</a>
+                        <p onClick={(e)=>nav("/PR",{state:{country:"canada"}})}>Canada</p>
+                        <p>Australia</p>
+                        <p>New Zealand</p>
+                        <p>Hong-Kong</p>
                      </div>
                 </div>
                 <div id="Temporary">
@@ -50,24 +50,30 @@ export const Header=()=>{
                         <div>
                             <p>Study Visa</p>
                             <div>
-                            <a>Canada</a>
-                            <a>Australia</a>
-                            <a>New Zealand</a>
-                            <a>UK</a>
-                            <a>Germany</a>
+                            <p onClick={(e)=>{
+                                nav("/StudyVisa",{state:{country:"canada"}})
+                            }}>Canada</p>
+                            <p>Australia</p>
+                            <p>New Zealand</p>
+                            <p onClick={(e)=>{
+                                nav("/StudyVisa",{state:{country:"uk"}})
+                            }}>UK</p>
+                            <p>Germany</p>
 
-                            <a>Ireland</a>
+                            <p>Ireland</p>
                             </div>
                         </div>
                         <div>
                             <p>Visit Visa</p>
                             <div>
-                            <a>Canada</a>
-                            <a>Australia</a>
-                            <a>New Zealand</a>
-                            <a>UK</a>
-                            <a>Germany</a>
-                            <a>Ireland</a>
+                            <p onClick={(e)=>{nav("/VisitVisa",{state:{country:"canada"}})}}>Canada</p>
+                            <p>Australia</p>
+                            <p>New Zealand</p>
+                            <p onClick={(e)=>{
+                                nav("/VisitVisa",{state:{country:"uk"}})
+                            }}>UK</p>
+                            <p>Germany</p>
+                            <p>Ireland</p>
                             </div>
                         </div>
 
