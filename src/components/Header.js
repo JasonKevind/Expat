@@ -25,7 +25,7 @@ export const Header=()=>{
             <div id="Right">
                 <div onClick={(e)=>{
                     nav("/");
-                }}>Home</div>
+                }}>Hom</div>
                 <div onMouseEnter={(e)=>
                     {
                         e.preventDefault();
