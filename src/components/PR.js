@@ -1,6 +1,8 @@
 import { useLocation } from 'react-router-dom';
 import '../App.css';
 import { Header } from './Header';
+import { Flags } from './Flags';
+import { useEffect } from 'react';
 export const PR=()=>{
 
 const data={"canada":<div style={{lineHeight:2,display:'flex',flexDirection:'column',padding:20}}>
@@ -269,6 +271,9 @@ market requirements. You must also demonstrate your ability to contribute to the
 and show a genuine desire to live in the province or area you are applying for.
 </div>}
 const loc=useLocation();
+useEffect(()=>{
+    window.scrollTo(0,0);
+ },[])
 return (
     <>
    {loc.state?
@@ -276,7 +281,12 @@ return (
         <Header />
         <div><h4 style={{color:'#333',fontSize:'max(3vh,3vw)',textAlign:'center'}}>Permanent Residency for {loc.state.country[0].toUpperCase()+loc.state.country.substring(1,)}</h4></div>
         {data[loc.state.country]}
-    </div>):<div></div>
+    </div>):<div>
+        <Header/>
+        <div style={{height:'60vh'}}>
+               <Flags/>
+               </div>
+    </div>
     }
     </>
     )

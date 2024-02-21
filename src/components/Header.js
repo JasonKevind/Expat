@@ -15,7 +15,7 @@ export const Header=()=>{
         <div className='Header'>
             <div>
                 <img loading='lazy' alt='Not found'  src={require("../expat.jpg")}  />
-                <GiHamburgerMenu id='ham' size={40} color='#333' onClick={(e)=>{
+                <GiHamburgerMenu id='ham' size={45} color='#333' onClick={(e)=>{
                     
                     e.preventDefault();
                     document.getElementById("Right").style.display=((document.getElementById("Right").style.display==='none')?"flex":"none");
@@ -25,7 +25,7 @@ export const Header=()=>{
             <div id="Right">
                 <div onClick={(e)=>{
                     nav("/");
-                }}>Hom</div>
+                }}>Home</div>
                 <div onMouseEnter={(e)=>
                     {
                         e.preventDefault();
@@ -38,10 +38,8 @@ export const Header=()=>{
                     }}>
                     <p className='Services'>Permanent Residency</p>
                      <div id="Migrations" style={{flexDirection:'column',position:'absolute',display:'none'}}>
-                        <p onClick={(e)=>nav("/PR",{state:{country:"canada"}})}>Canada</p>
-                        <p>Australia</p>
-                        <p>New Zealand</p>
-                        <p>Hong-Kong</p>
+                        <p onClick={(e)=>{
+                            nav("/PR",{state:{country:e.target.textContent[0].toLowerCase()+e.target.textContent.substring(1,).toLowerCase()}})}}>Canada</p>
                      </div>
                 </div>
                 <div id="Temporary">
@@ -53,34 +51,43 @@ export const Header=()=>{
                             <p onClick={(e)=>{
                                 nav("/StudyVisa",{state:{country:"canada"}})
                             }}>Canada</p>
-                            <p>Australia</p>
-                            <p>New Zealand</p>
+                             <p onClick={(e)=>{
+                                nav("/StudyVisa",{state:{country:"germany"}})
+                            }}>Germany</p>
                             <p onClick={(e)=>{
                                 nav("/StudyVisa",{state:{country:"uk"}})
                             }}>UK</p>
-                            <p>Germany</p>
-
-                            <p>Ireland</p>
                             </div>
                         </div>
                         <div>
                             <p>Visit Visa</p>
                             <div>
                             <p onClick={(e)=>{nav("/VisitVisa",{state:{country:"canada"}})}}>Canada</p>
-                            <p>Australia</p>
-                            <p>New Zealand</p>
+                            <p onClick={(e)=>{
+                                nav("/VisitVisa",{state:{country:"germany"}})
+                            }}>Germany</p>
                             <p onClick={(e)=>{
                                 nav("/VisitVisa",{state:{country:"uk"}})
                             }}>UK</p>
-                            <p>Germany</p>
-                            <p>Ireland</p>
+                
                             </div>
                         </div>
-
+                        <div>
+                            <p>Super Visa</p>
+                            <div>
+                                <p onClick={(e)=>{nav("/SuperVisa",{state:{country:"canada"}})}}>Canada</p>
+                            </div>
+                        </div>
+                        <div>
+                            <p>Work Visa</p>
+                            <div>
+                                <p onClick={(e)=>{nav("/WorkVisa",{state:{country:"canada"}})}}>Canada</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div>About Us</div>
-                <div>Contact Us</div>
+                <div onClick={(e)=>{e.preventDefault();nav("/AboutUs");}}>About Us</div>
+                <div onClick={(e)=>{e.preventDefault();window.scrollTo({top:document.body.scrollHeight,behavior:'smooth'})}} >Contact Us</div>
                 
             </div>
         </div>

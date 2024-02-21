@@ -7,24 +7,27 @@ import { Why } from './components/Why';
 import { VisitVisa } from './components/VisitVisa';
 import { StudyVisa } from './components/StudyVisa';
 import { PR } from './components/PR';
+import { SuperVisa } from './components/SuperVisa';
+import { About } from './components/About';
+import { Header } from './components/Header';
+import { WorkVisa } from './components/WorkVisa';
 function App() {
   return (
-    <>
-    
-    <div className="App">
+   <div className="App">
      <Routes>
         <Route index path="/" element={<Home flags={true} />} />
         <Route path="/Country" element={<Country />} />
+        <Route path='/AboutUs' element={<About/>}  />
         <Route path="/Why" element={<Why/>} />
+        <Route path="/WorkVisa" element={<WorkVisa/>} />
         <Route path='/VisitVisa' element={<VisitVisa/>} />
         <Route path='/StudyVisa' element={<StudyVisa />} />
         <Route path='/PR' element={<PR />} />
+        <Route path='SuperVisa' element={<SuperVisa/>} />
+        <Route path="*" element={<Home/>} />
      </Routes>
+      <Footer/>
     </div>
-   
-    <Footer />
-    </>
   );
 }
-
 export default App;

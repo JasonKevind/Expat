@@ -12,7 +12,7 @@ export const Image=(props)=>{
         flexDirection:"column",position:'absolute'}}>
             <div className='Img'>
                 <div><p style={{textAlign:'center',color:"rgb(235, 213, 251)",fontSize:"clamp(15px,35%,85px)",
-                fontFamily:"system-ui",padding:0,margin:0}}>{props.head}</p></div>
+                fontFamily:"system-ui",padding:0,margin:0}}>{props.head.toUpperCase()}</p></div>
                 <div style={{display:'flex',justifyContent:'center',alignItems:"center",textAlign:'center'}}>{props.info}</div>
             </div>
             

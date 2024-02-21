@@ -2,6 +2,7 @@ import { useLocation } from 'react-router-dom';
 import '../App.css';
 import { Header } from './Header';
 import { Flags } from './Flags';
+import { useEffect } from 'react';
 export const StudyVisa=(props)=>{
     const loc=useLocation();
     const data={"canada":<div style={{lineHeight:2,letterSpacing:1.25}}>
@@ -135,7 +136,24 @@ accomplish their ponder overseas goals. We offer assistance to understudies with
 the UK considering visa handles by carefully investigating their UK understudy visa
 applications.
 </div>
+</div>,"germany":<div style={{lineHeight:2}}>
+Germany stands tall as a beacon of educational excellence, attracting students from around the globe with its renowned universities, cutting-edge research facilities, and vibrant academic culture. For those aspiring to pursue their academic dreams in this dynamic nation, obtaining a German student visa is the vital first step towards a transformative educational experience. This essay delves into the intricacies of the German student visa process, illuminating the requirements, procedures, and the broader significance of this journey.
+
+<br></br>The pursuit of higher education in Germany begins far before setting foot on its soil. Prospective students must navigate through a maze of paperwork, guidelines, and bureaucratic procedures to secure their place in German universities. Central to this endeavor is the German student visa, a document that serves as the gateway to academic enlightenment and personal growth.
+
+<br></br>The German student visa is a testament to the nation's commitment to fostering international academic collaboration and cultural exchange. It embodies Germany's recognition of the value that diverse perspectives and talents bring to its academic landscape. Through this visa, Germany extends its welcoming embrace to students from all corners of the world, inviting them to partake in its rich tapestry of knowledge and innovation.
+
+<br></br>The journey towards obtaining a German student visa is marked by meticulous planning and unwavering determination. Applicants must demonstrate their academic credentials, financial stability, and proficiency in the German language, where applicable. Additionally, they must navigate through the intricacies of visa application forms, embassy appointments, and documentary requirements, ensuring that each piece of the puzzle fits seamlessly into place.
+
+<br></br>Beyond its practical implications, the German student visa journey holds profound personal and professional significance for aspiring scholars. It is a testament to their commitment to academic excellence and intellectual curiosity, reflecting their unwavering dedication to realizing their educational aspirations. Moreover, it represents a transformative milestone in their journey towards global citizenship, fostering cross-cultural understanding, empathy, and collaboration.
+
+<br></br>The German student visa journey is not merely a bureaucratic process; it is a transformative odyssey that shapes the trajectory of one's academic and personal growth. It is a journey marked by resilience in the face of challenges, adaptability in unfamiliar environments, and an insatiable thirst for knowledge. Through this journey, students emerge as global citizens equipped with the skills, perspectives, and experiences to thrive in an interconnected world.
+
+<br></br>In conclusion, the German student visa journey is a testament to the transformative power of education and international collaboration. It embodies the values of diversity, inclusivity, and academic excellence that define Germany's educational landscape. As students embark on this journey, they not only gain access to world-class education but also become ambassadors of knowledge, bridging cultures and forging connections that transcend borders. In the hallowed halls of German universities, a new generation of scholars emerges, poised to shape the future of our world through their passion, intellect, and unwavering resolve.
 </div>}
+ useEffect(()=>{
+    window.scrollTo(0,0);
+ },[])
     return (
         <>
         <Header />
