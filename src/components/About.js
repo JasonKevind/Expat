@@ -1,5 +1,4 @@
 import '../App.css';
-import { Footer } from './Footer';
 import { Header } from './Header';
 export const About=()=>{
     return(
@@ -82,7 +81,6 @@ that this can be a complex and overwhelming journey, and we are committed to ass
 achieving your goals. Please do not hesitate to reach out to us and take the first step towards
 realizing your aspirations.
          </div>
-        
         </div>
     )
 }

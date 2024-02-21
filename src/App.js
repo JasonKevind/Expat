@@ -9,7 +9,6 @@ import { StudyVisa } from './components/StudyVisa';
 import { PR } from './components/PR';
 import { SuperVisa } from './components/SuperVisa';
 import { About } from './components/About';
-import { Header } from './components/Header';
 import { WorkVisa } from './components/WorkVisa';
 function App() {
   return (
