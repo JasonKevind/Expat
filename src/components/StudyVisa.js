@@ -150,7 +150,41 @@ Germany stands tall as a beacon of educational excellence, attracting students f
 <br></br>The German student visa journey is not merely a bureaucratic process; it is a transformative odyssey that shapes the trajectory of one's academic and personal growth. It is a journey marked by resilience in the face of challenges, adaptability in unfamiliar environments, and an insatiable thirst for knowledge. Through this journey, students emerge as global citizens equipped with the skills, perspectives, and experiences to thrive in an interconnected world.
 
 <br></br>In conclusion, the German student visa journey is a testament to the transformative power of education and international collaboration. It embodies the values of diversity, inclusivity, and academic excellence that define Germany's educational landscape. As students embark on this journey, they not only gain access to world-class education but also become ambassadors of knowledge, bridging cultures and forging connections that transcend borders. In the hallowed halls of German universities, a new generation of scholars emerges, poised to shape the future of our world through their passion, intellect, and unwavering resolve.
-</div>}
+</div>,
+"hongkong":<div style={{display:'flex',flexDirection:'column',alignItems:'center',padding:15,letterSpacing:2.5,lineHeight:2.25}}>
+    Hong Kong visa for Indians has made it simple for citizens of India to visit the island. Some time recently, Hong Kong visas were not simple to come by; Indian candidates had to go through a complex prepare to get a visa, but that has changed with the modern online movement approach. This page contains critical data almost the Hong Kong visa application handle. Keep perusing to learn more.
+<br></br>Applying For A Hong Kong Visa For Indians
+<br></br>All Indian nationals looking to visit Hong Kong anytime before long must apply and get a visa some time recently being permitted into the Island. The handle is called pre-arrival enrollment. This enrollment awards them to get to either through the visa-free handle or a visa. Luckily for Indian citizens, a pre-arrival enrollment is not required; or maybe, Indians can enter Hong Kong with an online visa.
+<h4>Application Requirements</h4>
+To qualify for a Hong Kong online visa as an Indian citizen, you must have the taking after to total the visa application form.
+<h4>An Indian Passport</h4>
+The Indian citizen must have an Indian visa that is substantial for at slightest six months beginning from the entry date. The substantial international id must moreover have at slightest 2 clear pages on which the movement officers at the airplane terminal will stamp your section and exit checkout. You must moreover check and transfer the passport's bio page onto the online application form.
+<h4>Email Address</h4>
+A substantial mail address must be given on your online application frame. If the application is endorsed, the visa will be sent to it, and you must print it out and bring a duplicate to Hong Kong.
+<h4>Bank Card</h4>
+A bank-issued charge or credit card must pay the Hong Kong visa charge.
+Guarantee that the card contains sufficient stores for the visa and exchange fees.
+<h4>Return Flight Ticket</h4>
+The specialists will need to see a duplicate of your return flight ticket back to India. The ticket will prove that you arrange to return to India at the trip's conclusion or the close of your passage visa.
+<h4>Accommodation</h4>
+Where you arrange to remain is an imperative data the Hong Kong specialists wish to know. You ought to endeavor to book a lodging or occasion domestic online some time recently making the trip.
+<h4>Proof Of Funds</h4>
+A bank articulation of account containing adequate adjust to cover your travel and living costs whereas in Hong Kong.
+<h4>Health Certificate</h4>
+The wellbeing specialists still keep up a strict wellbeing arrangement and require a COVID-19 immunization certificate or a negative COVID-19 PCR test result taken at slightest 72 hours some time recently boarding the flight.
+<h4>Hong Kong Online Visa Validity</h4>
+An online visa issued by Hong Kong specialists permits the holder to remain on the island for up to 14 days, after which they must exit. This visa is not renewable unless the current one you have lapses. As it were at that point can you apply for a modern one.
+<h4>Types of Online Visas</h4>
+Online visas are issued to Indian citizens for the taking after purposes.
+<br></br><span style={{float:'left'}}>Tourism:</span> If you wish to visit Hong Kong for tourism, you can apply for a traveler visa from the consolation of your domestic. You do not have to visit the government office in Unused Delhi or any of the consular workplaces to apply for the visa in individual; you as it were require to fill out the application frame and show tourism as your reason of visit.
+<br></br>Business: Indians with commerce interface in Hong Kong can too visit the Island on commerce. Guests are permitted into Hong Kong to conduct commerce or to go to gatherings, conferences, and occasions. This visa carries the same 14 days legitimacy as the traveler visa.
+<br></br>Transit: Hong Kong is an universal travel point for universal travelers, counting Indians. If you arrange to make a brief halt in Hong Kong for a day or two some time recently restarting your travel, you can apply for a travel visa.
+When filling out the online application frame, compassionate show your eagerly and guarantee that your archives and all the points of interest you give are precise. Giving imaginary data or fake or invalid reports will lead to ask dismissal. Indeed if you are fortunate to get the visa, the Migration officers at the air terminal may deny you section if they find narrative discrepancies.
+It is moreover imperative to note that online visas are as it were for brief term visits, not amplified remains on the island. If your trade keeps you on the island longer, endeavor to apply specifically to the Remote Missions office. Too, note that outsiders on an electronic visa are not permitted to work whereas in the nation. As it were guests with a work allow are permitted to lock in in any paid employment.
+Applying for a Hong Kong visa for Indians online is simple on VisaHQ. Visit our stage to fill out and yield the application frame.
+
+</div>
+}
  useEffect(()=>{
     window.scrollTo(0,0);
  },[])

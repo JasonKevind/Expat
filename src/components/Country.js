@@ -51,8 +51,12 @@ Germany stands tall as a beacon of educational excellence, attracting students f
             <ReadMore country={"germany"} link={"VisitVisa"} />
             </div>}
             ]
-            }
+            },
+            "hongkong":{headimg:"hong.jpg",headead:"HongKong",headinfo:basic,maincontent:[{main:"mainhongkong",img:"hongvisit.jpg",head:"Visit Visa process",info:<div>Germany is eminent for its instruction framework that values availability. Most college courses are tuition-free, empowering understudies to seek after their scholastic goals without the monetary burden commonly found in other countries. Indeed private colleges, whereas less in number, have generally lower expenses compared...<br></br><ReadMore country={"hongkong"} link={"VisitVisa"} /></div>}]
+            },
+            "usa":{headimg:"usa1.jpg",headead:"USA",headinfo:basic,maincontent:[{main:"mainusa",img:"visitusa.jpg",head:"Visit Visa process",info:<div>Traveling to the United States is a dream for many people around the world, whether for tourism, education, business, or meeting family and friends. However, before you pack your bags and begin your journey, it is important to understand the intricacies of the US visa application process. This article aims to provide....<br></br><ReadMore country={"usa"} link={"VisitVisa"} /></div>}]}
         }
+            
     return(
         <>
             {

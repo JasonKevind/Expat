@@ -69,7 +69,12 @@ export const Header=()=>{
                             <p onClick={(e)=>{
                                 nav("/VisitVisa",{state:{country:"uk"}})
                             }}>UK</p>
-                
+                  <p onClick={(e)=>{
+                                nav("/VisitVisa",{state:{country:"hongkong"}})
+                            }}>HongKong</p>
+                            <p onClick={(e)=>{
+                                nav("/VisitVisa",{state:{country:"usa"}})
+                            }}>USA</p>
                             </div>
                         </div>
                         <div>

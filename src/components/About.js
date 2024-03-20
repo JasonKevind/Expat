@@ -5,7 +5,7 @@ export const About=()=>{
         <div >
            <Header/>
            <div className='About'>
-                <h2>About Expats Immigrations</h2>
+                <h2>About Expats Immigration</h2>
                
 Expats Immigration acknowledges the intricate nature of navigating the immigration system, which
 can pose a significant challenge. Our firm has made it our mission to provide clients with exceptional

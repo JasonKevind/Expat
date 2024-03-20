@@ -15,12 +15,12 @@ return(
         {data.map(it=>   
             <div onClick={(e)=>{
                 e.preventDefault();
-                (e.target.id==="uk" || e.target.id==="canada" || e.target.id==="germany")?
+                (e.target.id==="uk" || e.target.id==="canada" || e.target.id==="germany" || e.target.id==="hongkong" || e.target.id==="usa")?
                 nav("/Country",{state:{country:it.goto}})
                 :
                 alert("The country which you have clicked will be updated in fewer days.")
             
-            }} id={it.goto}  style={{backgroundImage:`url(${it.link})`,opacity:it.goto==="uk" || it.goto==="canada" || it.goto==="germany"?"1":"0.3"}}>           
+            }} id={it.goto}  style={{backgroundImage:`url(${it.link})`,opacity:it.goto==="uk" || it.goto==="canada" || it.goto==="germany" || it.goto==="hongkong" || it.goto==="usa"?"1":"0.3"}}>           
             </div>
         )}       
     </div>
