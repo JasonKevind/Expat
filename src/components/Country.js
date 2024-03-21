@@ -55,6 +55,9 @@ Germany stands tall as a beacon of educational excellence, attracting students f
             "hongkong":{headimg:"hong.jpg",headead:"HongKong",headinfo:basic,maincontent:[{main:"mainhongkong",img:"hongvisit.jpg",head:"Visit Visa process",info:<div>Germany is eminent for its instruction framework that values availability. Most college courses are tuition-free, empowering understudies to seek after their scholastic goals without the monetary burden commonly found in other countries. Indeed private colleges, whereas less in number, have generally lower expenses compared...<br></br><ReadMore country={"hongkong"} link={"VisitVisa"} /></div>}]
             },
             "usa":{headimg:"usa1.jpg",headead:"USA",headinfo:basic,maincontent:[{main:"mainusa",img:"visitusa.jpg",head:"Visit Visa process",info:<div>Traveling to the United States is a dream for many people around the world, whether for tourism, education, business, or meeting family and friends. However, before you pack your bags and begin your journey, it is important to understand the intricacies of the US visa application process. This article aims to provide....<br></br><ReadMore country={"usa"} link={"VisitVisa"} /></div>}]}
+        ,"australia":{headimg:"australia.jpg",headed:"Australia",headinfo:basic,maincontent:[{main:"mainaustralia",img:"australiastudy.jpg",head:"Study Visa Process",info:<div>For an Australian student visa (subclass 500) application you must submit these documents:....<br></br><ReadMore country={"australia"} link={"StudyVisa"} /></div>},
+            {main:"visitvisaaustralia",img:"australiavisit.webp",head:"Visit Visa Process",info:<div>The documents you must attach to your Australian tourist visa application include:....<br></br><ReadMore country={"australia"} link={"VisitVisa"} /></div>}
+        ]}
         }
             
     return(

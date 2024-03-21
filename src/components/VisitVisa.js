@@ -188,7 +188,74 @@ Prepare for your visa interview by learning the potential questions and making s
 Be honest and transparent throughout the application process and avoid providing false or misleading information that could lead to visa denial and future entry into the United States.
 <h4 style={{width:'100%'}}>No problem:</h4>
 Getting a US visa can be a difficult and sometimes scary task, but it is completely doable if you understand, prepare, and follow the written process. By following the guidelines outlined in this article and consulting information provided by the U.S. Department of State, tourists can increase their chances of successful visa application and look forward to exploring the diverse landscapes, culture, and opportunities in the United States to give.
-   </div>
+   </div>,
+   "australia":<div style={{display:'flex',flexDirection:'column',alignItems:'center',padding:15,letterSpacing:2.5,lineHeight:2.25}}>
+        <p style={{width:'100%'}}>The documents you must attach to your Australian tourist visa application include:
+        </p><ul><li><strong> Your passport.</strong></li>
+<li><strong>A copy of your passport’s identity page.
+</strong></li><li><strong>The Visitor Visa Subclass 600 Form.
+</strong></li><li><strong style={{color:'blue',textDecoration:'underline'}}>A recent picture of yourself. </strong> must have a white background and you must be clearly and
+fully visible.</li>
+<li><strong> Proof you can sustain yourself financially while you are in Australia.</strong> You must include
+your bank statements or a letter from your sponsor claiming they will help cover your finances
+during your visit.</li>
+<li><strong style={{color:'blue',textDecoration:'underline'}}> Proof you have travel health insurance.</strong>
+</li><li><storng> Letter from your employer</storng> (if applicable). It must state the requested time of leave and when
+you intend to return.</li>
+<li><strong>Letter from your school </strong>(if applicable). The letter must prove your enrollment and when you
+are expected to return.</li>
+<li> <strong style={{color:'blue',textDecoration:'underline'}}>Letter of Invitation</strong> (if applicable). If you have a family member or a friend in Australia who
+can sponsor you, they must write you a letter of invitation. The letter must include the relation
+between the two of you, the duration of your stay, whether you will stay with them, and what
+you intend to do during your visit.
+</li><li><strong> If you have a sponsor in Australia:</strong> your sponsor has to pay a security bond, which will be
+returned to them after you leave Australia.
+</li> <li><strong>If travelling to get medical treatment:</strong> a letter from your doctor and hospital in Australia
+stating the details of your condition and the type of treatment you will receive.
+</li><li> Completed Form 1257 and Form 1229, if the applicant is underage and will be in Australia
+with someone other than their parent/guardian or is travelling alone.
+</li><li> <strong style={{color:'blue'}}>Proof of accommodation in Australia, such as hotel reservations or rental contracts.
+</strong></li><li><strong style={{color:"blue"}}>Proof of booked flight tickets</strong> and a complete travel itinerary.</li>
+<li>Evidence that you will return to your home country before the visa expires.
+</li></ul> 
+<p style={{width:'100%'}}>
+All the documents for an Australian visa must be certified copies.
+<br></br>The documents must be in English. If they are not, you must have them translated by a professional
+translator.
+<br></br>How to Apply for a Tourist Visa for Australia?
+<br></br>You can apply for an Australian tourist visa in one of two ways:
+</p>
+<ul>
+<li>Online. To apply online, you have to create an ImmiAccount, which is the official portal
+handling Australian visa applications.
+</li><li> On paper. To apply on paper, you have to submit your documents to the nearest Australian
+Embassy.</li>
+</ul>
+<h4 style={{width:'100%'}}>Applying for the Australian Tourist Visa Online</h4>
+<p style={{width:'100%'}}>To submit an online application for the Australian tourist visa, you have to:</p>
+<ul>
+1.<strong>Create an ImmiAccount.</strong> The ImmiAccount is the official portal of the Australian Department
+of Home Affairs. It handles all visa applications. You will have to fill in your personal
+information and then confirm the account via your email.
+<br></br>2.<strong> Select the Tourist Stream Visa, Subclass 600.</strong> Once you create an account and log in, you
+have to select the type of visa you want to apply for, which in this case is the tourist visa.
+<br></br>3.<strong> Complete the online application form. </strong>Then, you will be redirected to the online application
+form for your visa. You have to answer questions such as the reason for your trip, the duration
+of the trip, your name and birthday, your marital status, and other personal details.
+<br></br>4.<strong> Attach all the required documents.</strong> You will have to attach electronic copies of the required
+documents, such as your passport, travel insurance, proof of finances, etc.
+<br></br>5. <strong>Pay the visa application fee.</strong> Once you upload the documents, you have to pay the visa fee
+either through a debit/credit card or via PayPal.
+<br></br>6. <strong>Wait for the visa to be processed.</strong> The Immigration authorities will notify you about the
+outcome of your visa application.
+<br></br>7.<strong> Get the visa.</strong> If your application is successful, you will receive your visa grant number along
+with information about the duration of your visa. You can print the visa notice and take with
+you when you travel.
+</ul>
+<p  style={{width:'100%'}}>Most people choose to submit their visa application online as it is the most convenient method.
+<br></br>Once you get to Australia, you have to complete an Incoming Passenger Card at the border.
+
+</p></div>
     }
     useEffect(()=>{
         window.scrollTo(0,0);

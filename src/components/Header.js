@@ -49,6 +49,9 @@ export const Header=()=>{
                             <p>Study Visa</p>
                             <div>
                             <p onClick={(e)=>{
+                                nav("/StudyVisa",{state:{country:"australia"}})
+                            }}>Australia</p>
+                            <p onClick={(e)=>{
                                 nav("/StudyVisa",{state:{country:"canada"}})
                             }}>Canada</p>
                              <p onClick={(e)=>{
@@ -75,6 +78,9 @@ export const Header=()=>{
                             <p onClick={(e)=>{
                                 nav("/VisitVisa",{state:{country:"usa"}})
                             }}>USA</p>
+                             <p onClick={(e)=>{
+                                nav("/VisitVisa",{state:{country:"australia"}})
+                            }}>Australia</p>
                             </div>
                         </div>
                         <div>

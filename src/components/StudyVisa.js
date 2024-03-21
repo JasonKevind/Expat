@@ -151,39 +151,219 @@ Germany stands tall as a beacon of educational excellence, attracting students f
 
 <br></br>In conclusion, the German student visa journey is a testament to the transformative power of education and international collaboration. It embodies the values of diversity, inclusivity, and academic excellence that define Germany's educational landscape. As students embark on this journey, they not only gain access to world-class education but also become ambassadors of knowledge, bridging cultures and forging connections that transcend borders. In the hallowed halls of German universities, a new generation of scholars emerges, poised to shape the future of our world through their passion, intellect, and unwavering resolve.
 </div>,
-"hongkong":<div style={{display:'flex',flexDirection:'column',alignItems:'center',padding:15,letterSpacing:2.5,lineHeight:2.25}}>
-    Hong Kong visa for Indians has made it simple for citizens of India to visit the island. Some time recently, Hong Kong visas were not simple to come by; Indian candidates had to go through a complex prepare to get a visa, but that has changed with the modern online movement approach. This page contains critical data almost the Hong Kong visa application handle. Keep perusing to learn more.
-<br></br>Applying For A Hong Kong Visa For Indians
-<br></br>All Indian nationals looking to visit Hong Kong anytime before long must apply and get a visa some time recently being permitted into the Island. The handle is called pre-arrival enrollment. This enrollment awards them to get to either through the visa-free handle or a visa. Luckily for Indian citizens, a pre-arrival enrollment is not required; or maybe, Indians can enter Hong Kong with an online visa.
-<h4>Application Requirements</h4>
-To qualify for a Hong Kong online visa as an Indian citizen, you must have the taking after to total the visa application form.
-<h4>An Indian Passport</h4>
-The Indian citizen must have an Indian visa that is substantial for at slightest six months beginning from the entry date. The substantial international id must moreover have at slightest 2 clear pages on which the movement officers at the airplane terminal will stamp your section and exit checkout. You must moreover check and transfer the passport's bio page onto the online application form.
-<h4>Email Address</h4>
-A substantial mail address must be given on your online application frame. If the application is endorsed, the visa will be sent to it, and you must print it out and bring a duplicate to Hong Kong.
-<h4>Bank Card</h4>
-A bank-issued charge or credit card must pay the Hong Kong visa charge.
-Guarantee that the card contains sufficient stores for the visa and exchange fees.
-<h4>Return Flight Ticket</h4>
-The specialists will need to see a duplicate of your return flight ticket back to India. The ticket will prove that you arrange to return to India at the trip's conclusion or the close of your passage visa.
-<h4>Accommodation</h4>
-Where you arrange to remain is an imperative data the Hong Kong specialists wish to know. You ought to endeavor to book a lodging or occasion domestic online some time recently making the trip.
-<h4>Proof Of Funds</h4>
-A bank articulation of account containing adequate adjust to cover your travel and living costs whereas in Hong Kong.
-<h4>Health Certificate</h4>
-The wellbeing specialists still keep up a strict wellbeing arrangement and require a COVID-19 immunization certificate or a negative COVID-19 PCR test result taken at slightest 72 hours some time recently boarding the flight.
-<h4>Hong Kong Online Visa Validity</h4>
-An online visa issued by Hong Kong specialists permits the holder to remain on the island for up to 14 days, after which they must exit. This visa is not renewable unless the current one you have lapses. As it were at that point can you apply for a modern one.
-<h4>Types of Online Visas</h4>
-Online visas are issued to Indian citizens for the taking after purposes.
-<br></br><span style={{float:'left'}}>Tourism:</span> If you wish to visit Hong Kong for tourism, you can apply for a traveler visa from the consolation of your domestic. You do not have to visit the government office in Unused Delhi or any of the consular workplaces to apply for the visa in individual; you as it were require to fill out the application frame and show tourism as your reason of visit.
-<br></br>Business: Indians with commerce interface in Hong Kong can too visit the Island on commerce. Guests are permitted into Hong Kong to conduct commerce or to go to gatherings, conferences, and occasions. This visa carries the same 14 days legitimacy as the traveler visa.
-<br></br>Transit: Hong Kong is an universal travel point for universal travelers, counting Indians. If you arrange to make a brief halt in Hong Kong for a day or two some time recently restarting your travel, you can apply for a travel visa.
-When filling out the online application frame, compassionate show your eagerly and guarantee that your archives and all the points of interest you give are precise. Giving imaginary data or fake or invalid reports will lead to ask dismissal. Indeed if you are fortunate to get the visa, the Migration officers at the air terminal may deny you section if they find narrative discrepancies.
-It is moreover imperative to note that online visas are as it were for brief term visits, not amplified remains on the island. If your trade keeps you on the island longer, endeavor to apply specifically to the Remote Missions office. Too, note that outsiders on an electronic visa are not permitted to work whereas in the nation. As it were guests with a work allow are permitted to lock in in any paid employment.
-Applying for a Hong Kong visa for Indians online is simple on VisaHQ. Visit our stage to fill out and yield the application frame.
+"australia":<div style={{display:'flex',flexDirection:'column',alignItems:'center',padding:15,letterSpacing:2.5,lineHeight:2.25}}>
+                <p style={{width:'100%'}}>What Are the Requirements for a Student Visa in Australia?
+                <br></br>For an Australian student visa (subclass 500) application you must submit these documents:</p>
+                <ul>
+                    <li><strong>Passport.</strong>Applicants who want a student visa for Australia should submit a valid passport
+issued by your current country of residence/birth country. You may also be required to submit
+a copy of your national ID and driver’s license.</li>
+<li><strong>Recent Photograph and Biometrics.</strong> You must also submit recent identity photographs and
+biometrics. The Immigration Office will let you know if they need your fingerprints.</li>
+<li><strong> Student Visa Application Form.</strong> The application form for a student visa has to be filled in,
+signed, and submitted with the rest of the required documents.
+</li><li><strong>Age Requirements. </strong>Students must be 6 or older to apply for the subclass 500 visa. Moreover,
+students have to be a certain age when they begin your primary, secondary, or tertiary
+education:
+<ul>
+<li>Younger than 17 years old when they begin year 9 of school.
+</li><li> Younger than 18 years old when they begin year 10 of school.
+</li><li> Younger than 19 years old when they begin year 11 of school.
+</li><li> Younger than 20 years old when they begin year 12 of school.
+</li>
+</ul>
+</li>
+<li><strong>Evidence of Study Program.</strong> When you apply for a student visa in Australia you have to
+submit a Confirmation Letter of Enrollment (CoE) for all of the courses you plan on taking
+during your study programme. Your CoE has to be submitted before your visa is granted.
+Remember that your CoE expires and it’s your responsibility to make sure that you have a
+valid CoE during your stay otherwise your student visa may be canceled.
+<ul>
+<li> If you are taking more than one study course, you must submit all of CoE pertaining to
+those study courses. If you don’t, then your visa will be valid only for that study course.
+You are allowed to take 2 or more courses as long as the classes have a gap of at least two
+months between them and one course leads to the second one.Instead of a CoE, you need to
+submit a letter of support if you belong to one of these categories:
+</li><li> A student sponsored by the Australian Department of Foreign Affairs and Trade.
+</li><li>A student sponsored by the Department of Defence.
+</li> <li> If you are a secondary exchange student, then you must submit an Acceptance Advice of
+Secondary Exchange Student Form.
+</li><li> Postgraduate research students who are required to remain in Australia for their thesis have
+to provide a letter from their education provider.
+</li>
+</ul>
+</li>
+<li><strong>Parental Consent.</strong> If you are bringing a child under 18 years old with you, and one of the
+parents is not accompanying the child to Australia, then there should be a parental consent
+form attached to the visa application.
+</li> <li><strong>Civil Documents.</strong> You have to provide documents such as; your birth certificate, marriage
+certificate, divorce papers, adoption papers, including evidence of your relationship with a
+partner. If you changed your name, you must also provide a certificate verifying your name
+change.</li>
+<li><strong>Health Insurance.</strong> Students need to have adequate health insurance for their Australia visa
+application. Student applicants and their family members must be covered by Overseas Student
+Health Cover (OSCH). The insurance must be valid from the day students arrive in Australia
+and not from the date their courses begin. Students must get OSHC from an approved provider
+and then pay for the insurance policy, if applicants don’t have health insurance they may not be
+allowed to enter Australia. Students may be exempted from health insurance if:
+<ul> <li>They are Norwegian students covered by the Norwegian National Insurance Scheme.
+</li><li> They are a Swedish student covered by Kammarkollgiet.
+</li><li> They are a Belgian student under the Reciprocal Health Care Agreements with Australia.</li>
+</ul> </li>            
+<li><strong>Evidence of Financial Capacity.</strong> You must provide:
+<ul><li>Enough financial funds to support your travel costs, 1 year of living in Australia, and
+enough funds to cover your tuition fees (including funds to cover family members).
 
-</div>
+</li><li>Proof that family members will financially support the applicant during your study
+programme. The family members must have an annual income of at least AUD 62,222 for
+single students and AUD 72,592 for students who have other family members with them.
+</li> <li> Acceptance Advice of Secondary Exchange Student Form for exchange students.
+</li><li> A letter of support from either the Australian Department of Foreign Affairs and Trade or
+the Department of Defence.
+</li><li> English Language Certification.
+</li><li> Character Requirements. Students who want to study in Australia have to meet
+the requirements for good character laid out by the Australian authorities.
+</li></ul></li>
+<li><strong> Genuine Temporary Entrant.</strong> Students must provide a written statement stating their
+intention to study temporarily in Australia. The genuine temporary entrant requirement is
+important because it shows the Immigration Office that you don’t intend to overstay after your
+visa expires.</li>
+<li><strong>Employment History. </strong>You must also submit documents proving your employment. This could
+include a recent contract or a current contract if you are working at the moment, you may also
+submit your updated CV. In case you have been studying until now, you can submit a copy of
+your transcripts.  This requirement is not applicable to students who are sponsored by the
+Department of Foreign Affairs and Trade or the Department of Defence, or secondary
+exchange students.</li>
+<li> <strong style={{color:"blue"}}>Form 157N.</strong> This form is required only for students younger than 18 years of age. They have
+to provide a nomination form in order to take a guardian with them to Australia (see below).
+</li><li><strong>Australian Values Statement.</strong> Future students in Australia have to sign an Australian values
+statement confirming that they will uphold all the Australian values and laws.
+</li> <li><strong>Authorised Recipient Form</strong> If someone else is helping you with your application you must
+submit this form. In case you have a migration agent helping you, then include this form. You
+may also write a letter and upload it to your ImmiAccount explaining why you need help and
+who is helping you.</li>
+
+</ul>
+<h4 style={{width:'100%'}}>Documentary Proof Required for an Australia Study Visa
+</h4><h4 style={{width:'100%'}}>You will generally need the following basic documents while applying for an Australia Student
+Visa.</h4>
+<ul>
+<li>The Electronic Confirmation of Enrolment as proof of admission into a college or university.
+</li><li> A valid passport.
+</li><li> Your visa application fee.
+</li><li> Your GTE (Genuine Temporary Entrant) statement.
+</li><li>Academic and work experience documents.
+</li> <li> Evidence of financial ability to meet expenses like tuition fees, living expenses, living costs for
+dependents, and return airfare.
+</li><li>Details of OSHC health insurance policy.
+</li><li>Statement of purpose.
+</li> <li> Passport-size photographs.</li>
+</ul>
+<p style={{width:'100%'}}>You will also be required to provide additional documents like parental consent if you are under 18
+years of age.</p>
+<p style={{width:'100%'}}>Step :1 <br></br>You have to make sure that you meet all the requirements before you fill up the visa application.
+</p>
+            <ul>
+            <li><strong>Meet Australian study requirements:</strong> You have to be enrolled in a full-time course ( undergraduate,
+masters or Phd) to be able to apply for a student visa. The course must be registered with the
+Commonwealth Register of Institutions and Courses.  for Overseas Students (CRICOS). The
+university will provide an electronic Confirmation of Enrolment (eCoE) certificate which will serve as
+proof of enrolment.</li>
+<li>Meet Language Requirements: Authorities need to know that you have adequate language abilities.
+You can display this by taking a language proficiency test. The following tests scores are acceptable:
+<ul>
+<li> International English Language testing system (IELTS) : 5.5-6
+</li><li> Test of English as a Foreign Language (TOEFL) : 46
+</li><li> Pearson Test of English (PTE) : 42
+</li><li>Certificate of Advanced English (CAE) : 162
+</li><li>Occupational English Test (OET) : A ‘b’ for each test component
+</li></ul></li>       
+<li><strong>Have a Genuine Temporary Entrant (gte) statement:</strong> This will state that your only intention is to
+study in Australia, and that you plan on returning.
+</li><li> <strong>Have adequate health insurance</strong> In the event of something happening to your health in Australia,
+the authorities need to know that you will be able to pay your own healthcare bills. You usually have
+to purchase an Overseas Student Health Cover to prove this.
+</li> <li><strong>Meet health requirements:</strong> You must be in reasonably good health, and have no major illnesses that
+show up during medical tests.</li>
+<li><strong> Meet character requirements: </strong>You are only eligible to apply for a study visa if you do not have a
+criminal or terrorist background. You must have a clean record.
+</li></ul>
+<p style={{width:'100%'}}>Step :2</p>
+<ul>
+<li> You will need to get your certificate of Enrolment for this step. You may be asked to pay a portion of
+your tuition fees to get this certificate.
+</li><li> You may also be asked to purchase an Overseas Student Health Cover so that authorities can be sure
+your health and its expenses will be taken care of.
+</li></ul>
+<p style={{width:'100%'}}>Step :3</p>
+<ul>
+<li><strong>Create a profile:</strong> On the Australian Immigration Website. You will need to have scanned copies of
+your documents on hand.</li>
+<li> <strong>Fill in your visa application:</strong> The application can be filled up to 124 days before the commencement
+of your course and not before that.</li>
+<li>After you have successfully filled in your application and uploaded the documents, you have to pay
+the visa fees.</li>
+<li> Following this, you will receive a Transaction Reference Number which you can use to check to see
+where your application stands.</li> 
+</ul>
+<h4>Cost/Fee Requirements for an Australia Study Visa</h4>
+            <table style={{border:'1px solid black'}} >
+                <tr >
+                    <th>Visa Subclass</th>
+                    <th>Base Application Charge</th>
+                    <th>Additional Applicant
+Charges if 18 Years or Above</th>
+                    <th>Additional Applicant
+Charges if Less Than 18
+Years</th>
+                    <th>The Subsequent
+Temporary Applicant
+Charge</th>
+
+                </tr>
+                <tr>
+                    <td>Student Visa
+(Subclass 500)</td>
+<td>AUD 620</td>
+<td>AUD 460</td>
+<td>AUD 150</td>
+<td>AUD 700</td>
+                </tr>
+                <tr>
+                    <td>Student Visa
+(Subclass 500)
+(Subsequent Entrant)</td>
+<td>AUD 620 </td><td>AUD 460</td><td> AUD 150</td><td> AUD 700</td>
+                </tr>
+                <tr><td>Student Visa
+(Subclass 500) Foreign
+Affairs or Defense Sector
+
+</td><td>Nil</td><td> Nil</td><td> Nil</td><td> Nil</td></tr>
+            </table>
+            <h5 style={{margin:0,padding:0}}>International students are required to pay visa fees as per the category they fall in below.</h5>
+            <h4>Average Tuition Fees & Course Costs for Indian Students</h4>
+            These are the average tuition fees per year for international students according to the official
+government site.
+<ul>
+<li>International Undergraduate Students – AUD 15,000 to AUD 33,000
+</li><li> International Postgraduate Students (Masters Degree) – AUD 20,000 to AUD 37,000
+</li><li> Doctoral Degree – AUD 14,000 to AUD 37,000
+</li></ul>
+These figures however do not include high-value courses like medical degrees or veterinary science.
+They cost significantly more.
+<h4>Australian Student Visa Processing Time 2024
+</h4>Usually the student visa Australia is processed within a month, however, the maximum time it could
+take is 3 months.<br></br>
+<table>
+    <tr><th>Stream </th><th>75% Processing</th><th> 90% Processing</th></tr>
+<tr><td>Foreign Affairs or Defense Sector </td><td>20 days</td><td> 26 days</td></tr>
+<tr><td>Postgraduate Research Sector</td><td> 39 days</td><td> 77 days</td></tr>
+<tr> <td>Independent ELICOS Sector</td><td> 23 days</td><td> 38 days</td></tr>
+<tr><td>Vacational Education and Training Sector</td><td> 36 days</td><td> 52 days</td></tr>
+<tr><td>Higher Education Sector</td><td> 17 days</td><td> 32 days</td></tr>
+</table>
+            </div>
 }
  useEffect(()=>{
     window.scrollTo(0,0);

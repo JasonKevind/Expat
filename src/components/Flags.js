@@ -8,6 +8,7 @@ export const Flags=()=>{
     {goto:"hongkong",link:"https://wallpaperaccess.com/full/1410661.jpg"},
     {goto:"canada",link:"https://wallpaperset.com/w/full/6/c/9/464409.jpg"},
     {goto:"ireland",link:"https://wallpapercave.com/wp/wp2017361.jpg"}
+    ,{goto:"australia",link:"https://wallpaperaccess.com/full/1458402.jpg"}
 ]
 const nav=useNavigate();
 return(
@@ -15,12 +16,12 @@ return(
         {data.map(it=>   
             <div onClick={(e)=>{
                 e.preventDefault();
-                (e.target.id==="uk" || e.target.id==="canada" || e.target.id==="germany" || e.target.id==="hongkong" || e.target.id==="usa")?
+                (e.target.id==="australia" || e.target.id==="uk" || e.target.id==="canada" || e.target.id==="germany" || e.target.id==="hongkong" || e.target.id==="usa")?
                 nav("/Country",{state:{country:it.goto}})
                 :
                 alert("The country which you have clicked will be updated in fewer days.")
             
-            }} id={it.goto}  style={{backgroundImage:`url(${it.link})`,opacity:it.goto==="uk" || it.goto==="canada" || it.goto==="germany" || it.goto==="hongkong" || it.goto==="usa"?"1":"0.3"}}>           
+            }} id={it.goto}  style={{backgroundImage:`url(${it.link})`,opacity: it.goto==="australia" || it.goto==="uk" || it.goto==="canada" || it.goto==="germany" || it.goto==="hongkong" || it.goto==="usa"?"1":"0.3"}}>           
             </div>
         )}       
     </div>

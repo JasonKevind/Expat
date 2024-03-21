@@ -113,6 +113,7 @@
     border-radius: 20px;
 
  }
+ th,td{border: 1px solid black;font-size: clamp(11px,max(1vw,1vh),20px);}
  .h44{display: inline;}
  .About{
   display: flex;flex-direction: column;
