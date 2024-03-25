@@ -3,7 +3,7 @@ import { Header } from './Header';
 export const About=()=>{
     return(
         <div >
-           <Header/>
+          <Header />
            <div className='About'>
                 <h2>About Expats Immigration</h2>
                
@@ -27,23 +27,7 @@ At Exptas Immigration, we place a strong emphasis on maintaining open and honest
 with our clients. We believe that transparency is essential in building trust, and we strive to ensure
 that our clients are informed every step of the way. We take pride in our commitment to delivering
 exceptional service and achieving positive outcomes for our clients.
-<h4>Why Choose Us?</h4>
-<ul> <li><span className='bold'>Expertise:</span> Our team of licensed immigration consultants boasts extensive experience and a
-profound understanding of Canadian immigration laws and procedures. Our consultants
-have undergone rigorous training and possess the expertise to provide you with reliable
-immigration advice tailored to your specific circumstances. We prioritize your satisfaction
-and strive to facilitate a smooth and seamless immigration process for you. Rest assured
-that you are in capable hands with our knowledgeable and professional team of consultants.
-</li><li><span className='bold'>Personalized Service:</span> We take pride in our ability to provide tailored guidance and support
-that caters to your unique circumstances and goals. Our team of experts understands the
-importance of personalized care, and we are committed to offering you the best possible
-service at every step of the way. With our guidance, you can rest assured that you will
-receive the support you need to achieve your objectives.
-</li><li><span className='bold'> Client-Centric Approach:</span> Our clients&#39; satisfaction is of the utmost priority to us. To ensure a
-positive experience, we place a high value on clear communication, timely responses, and
-proactive problem-solving. Our steadfast commitment to these principles ensures that our
-clients receive the best possible service.</li>
-</ul>
+
 <h4>Our Services</h4>
 <ul>
     <li><span className='bold'>Temporary Residence:</span> If you are planning to visit, study or work in Canada, we possess the

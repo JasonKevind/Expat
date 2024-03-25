@@ -278,7 +278,7 @@ return (
     <>
    {loc.state?
         (<div>
-        <Header />
+    <Header />
         <div><h4 style={{color:'#333',fontSize:'max(3vh,3vw)',textAlign:'center'}}>Permanent Residency for {loc.state.country[0].toUpperCase()+loc.state.country.substring(1,)}</h4></div>
         {data[loc.state.country]}
     </div>):<div>

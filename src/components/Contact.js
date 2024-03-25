@@ -3,7 +3,7 @@ import { Header } from './Header';
 export const Contact=()=>{
     return (
         <div >
-            <Header />
+           <Header />
             <div style={{display:'flex',textAlign:'justify',padding:10,flexDirection:'column'}}>
                 
             <h4>Why Choose Us?</h4>

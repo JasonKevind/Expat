@@ -7,7 +7,7 @@ export const Image=(props)=>{
       backgroundSize:"cover",backgroundPosition:"center",display:'flex',zIndex:2,
       flexDirection:'column'
       }}>
-        <Header />
+       <Header />
         <div style={{height:"clamp(500px,100%,900px)",display:"flex",alignItems:'center',width:'100%',
         flexDirection:"column",justifyContent:'center',position:'absolute',top:'25vh'}}>
           

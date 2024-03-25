@@ -58,8 +58,7 @@ framework are shorter, more viable & concentrated which suggests that the
         window.scrollTo(0,0);
      },[])
     return (
-        <>
-        <Header />
+        <><Header />
         {loc.state?(
             <div style={{display:'flex',flexDirection:'column',lineHeight:2,padding:20,alignItems:'center'}}>
             <div><h4 style={{color:'#333',fontSize:'max(3vh,3vw)'}}>Why choose to study in {loc.state?loc.state.country:"Country"}</h4></div>

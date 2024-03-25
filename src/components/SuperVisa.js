@@ -55,12 +55,10 @@ information.
         window.scrollTo(0,0);
      },[])
     return (
-        <>
-        
-        <Header/>
+        <>  <Header />
         {loc.state?
         <div style={{display:'flex',flexDirection:'column',padding:15}}>
-            
+          
             <div><h4 style={{textAlign:'center',color:'#333',fontSize:'max(3vh,3vw)'}}>Super Visa for {loc.state.country}</h4></div>
             {data[loc.state.country]}
         </div>:<div>

@@ -14,6 +14,7 @@ import { Contact } from './components/Contact';
 function App() {
   return (
    <div className="App">
+    
      <Routes>
         <Route index path="/" element={<Home flags={true} />} />
         <Route path="/Country" element={<Country />} />

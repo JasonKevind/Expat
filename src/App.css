@@ -157,5 +157,5 @@ flex-direction: column;background-color: rgb(175, 143, 223);padding: 10px;positi
   .About{height:fit-content;}
   .Header>div:nth-child(2)>div{display: flex;width: 100%;justify-content: center;}
   #Right>div{padding-block: 5px;}
-  table{table-layout: auto;width: clamp(200px,60%,400px);}
+  tr,td,th{border: 1px solid black;}
 }

@@ -182,8 +182,7 @@ you apply from, you will need to submit a specific form and pay the open work pe
 along with the work permit processing fee at the same time.
     </div>}
     return (
-        <>
-        <Header/>
+        <><Header />
         {loc.state?
         <div style={{display:'flex',flexDirection:'column',padding:15}}>
         <div><h4 style={{color:'#333',fontSize:'max(3vh,3vw)',textAlign:'center'}}>Work Visa Processes for {loc.state?loc.state.country[0].toUpperCase()+loc.state.country.substring(1,):"Country"}</h4></div>

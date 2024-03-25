@@ -307,8 +307,8 @@ the visa fees.</li>
 where your application stands.</li> 
 </ul>
 <h4>Cost/Fee Requirements for an Australia Study Visa</h4>
-            <div style={{display:'flex',overflowX:'wrap'}}>
-            <table style={{border:'1px solid black'}} >
+            <div style={{overflowX:'scroll',width:'100%'}}>
+            <table style={{border:'1px solid black',borderCollapse:"collapse",width:'100%',borderSpacing:0}} >
                 <tr>
                     <th>Visa Subclass</th>
                     <th>Base Application Charge</th>
@@ -336,7 +336,7 @@ Charge</th>
 (Subsequent Entrant)</td>
 <td>AUD 620 </td><td>AUD 460</td><td> AUD 150</td><td> AUD 700</td>
                 </tr>
-                <tr><td>Student Visa
+                <tr><td >Student Visa
 (Subclass 500) Foreign
 Affairs or Defense Sector
 
@@ -373,7 +373,7 @@ take is 3 months.<br></br>
  },[])
     return (
         <>
-        <Header />
+       <Header />
         {
             loc.state?
         <div style={{display:'flex',gap:15,flexDirection:'column',alignItems:'justify',padding:20}}>
