@@ -5,13 +5,13 @@ import { MainContent } from './MainContent';
 export const Home=(props)=>{
  return (
     <>
-    <Image country={""} img={'cheer.jpg'} head={'Convenient Migrations'} info={<div>Tap on the arrow to see the countries with which we can help you...</div>} />
-    <MainContent list={[{'main':"main",'img':"flags.jpg",'head':'Countries We Deal','info':<div>Let it be that you wanna migrate or you wish to study abroad, we can make it possible for you to make to countries like USA, Canada, Germany, Hong-Kong, France, Australia, New Zealand. Details for migration as well as for educational purposes can be viewed by <b>clicking on respective flags below</b> to see the processes involved.</div>}
+    <Image country={""} img={'cheer.jpg'} head={'Convenient Migrations'} info={<div>Tap the arrow given below...</div>} />
+    <MainContent list={[{'main':"main",'img':"flags.jpg",'head':'Countries We Deal','info':<div style={{paddingInline:10}}>Let it be that you wanna migrate or you wish to study abroad, we can make it possible for you to make to countries like USA, Canada, Germany, Hong-Kong, France, Australia, New Zealand. Details for migration as well as for educational purposes can be viewed by <b>clicking on respective flags below</b> to see the processes involved.</div>}
    ]}/>
    
-   <h3 style={{color:"#333",textAlign:'center',textShadow:"1px 2px 4px  black"}}>We will update in fewer days in regards with other countries other than Uk,Canada and Germany</h3>
+   <h3 style={{color:"#333",textAlign:'center'}}>We will update in fewer days in regards with other countries other than Uk,Canada and Germany</h3>
    <Flags/>
-   <div style={{padding:10,lineHeight:2}}>
+   <div style={{padding:10,lineHeight:2,textAlign:'justify'}}>
    Expats Immigration Services is a team of highly skilled professionals who specialize in facilitating
 permanent residency for individuals and families in countries such as Canada, Australia, and New
 Zealand. Our team of experienced visa immigration consultants will provide comprehensive

@@ -1,6 +1,6 @@
 .App{display: flex;flex-direction: column;justify-content: space-between;min-height: 100vh;height: fit-content;}
 .Header
-{height: clamp(45px,20vh, 100px);background-color: rgb(175, 143, 223,0.65);z-index: 100;box-shadow: -2px -4px 9px 6px black;}
+{height: clamp(45px,20vh, 100px);background-color: rgb(175, 143, 223,0.65);z-index: 100;box-shadow: -2px -4px 9px 6px black;width: 100%;}
 .Header>div:nth-child(1)>img
 {height:70px;width:85px; object-fit:fill;margin-left:5%;border-radius:70px;}
 .Header,.Header>div:nth-child(1),
@@ -17,40 +17,25 @@
 {cursor: pointer;letter-spacing: 1.5px;}
 .Header>div:nth-child(2)>div:nth-child(2)
 {width: clamp(45px,14vw,130px);display: inline-block;}
-.Header>div:nth-child(2)>div>div,
-.Header>div:nth-child(2)>div:nth-child(3)>div>div>div,
-.Header>div:nth-child(2)>div:nth-child(3)>div>div>div>a
-{background-color: black;transition: 0.3s ease-in-out;padding:clamp(12.5px,max(2.5vh,2.5vw),20px);}
-.Header>div:nth-child(2)>div:nth-child(3)>div
-{position: absolute;}
-.Header>div:nth-child(2)>div:nth-child(3)>div{display: none;}
-.Header>div:nth-child(2)>div:nth-child(3):hover>div
-{display: flex;flex-direction: column;}
-.Header>div:nth-child(2)>div:nth-child(3)>div>div:hover>div
-{display: flex;flex-direction: column;position: absolute;left:50%;}
-.Header>div:nth-child(2)>div:nth-child(3)>div>div>div
-{display: none;}
+.Header>div:nth-child(2)>div>div
+
+{border-radius: 10px;background-color: rgb(175, 143, 223);transition: 0.3s ease-in-out;padding:clamp(12.5px,max(2.5vh,2.5vw),20px);}
 .Header>div:nth-child(2)>div>div>a{padding-top:5%;padding-bottom:5%;}
 .Services
 {letter-spacing: 1.5px; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;cursor: pointer;margin: 0;text-align: center;}
 #ham{display: none;}
 .Header>div:nth-child(2)>div>p:hover,.Header>div:nth-child(2)>div:nth-child(1):hover,
-.Header>div:nth-child(2)>div:nth-child(4):hover,
-.Header>div:nth-child(2)>div:nth-last-child(1):hover
+.Header>div:nth-child(2)>div:nth-child(4):hover,.Header>div:nth-child(2)>div:nth-child(3)>div>div>div>p:hover,
+.Header>div:nth-child(2)>div:nth-last-child(1):hover,.Header>div:nth-child(2)>div:nth-child(2):hover,Header>div:nth-child(2)>div:nth-child(3)>div>div>div>div>p:hover
 {color: #333;transition: 0.3s ease-in-out;}
-.Header>div:nth-child(2)>div:nth-child(3)>div>div>div>p{width: 100%;text-align: center;}
-.Header>div:nth-child(2)>div>div>p:hover,.Header>div:nth-child(2)>div:nth-child(3):hover>div>div:hover,
-.Header>div:nth-child(2)>div:nth-child(3)>div>div>div>a:hover,.Header>div:nth-child(2)>div:nth-child(3)>div>div>div>p:hover
-
-{
-  background-color: grey;transition: 0.3s;
-}
+.Header>div:nth-child(2)>div>div>p:hover,
+div{text-align: justify;}
 .Img{
   display: flex;
   width:clamp(100px,50%,310px);
-  height:clamp(100px,40%,220px);
+  height:clamp(65px,30%,205px);
   flex-direction: column;
-  border-radius: 15px;margin-top: clamp(60px,35%,250px);
+  border-radius: 15px;
 }
 .divv{padding:max(27.5px,2vw,2vh);line-height: 7.5px;display: flex;flex-direction: column;}
 .Img>div:nth-child(1){display: flex;
@@ -80,7 +65,7 @@
 }
 .MainContent>div:nth-child(2){
   display: flex;width:60%;
-  justify-content: center;flex-direction: column;gap:8.5%;
+flex-direction: column;
 }
 .MainContent>div:nth-child(2)>div{
   display: flex;flex-direction: column;
@@ -90,11 +75,11 @@
   background-color: rgb(175, 143, 223,0.65);
   display: flex;
   flex-direction: column;justify-content: space-evenly;
-  height:max(25vh,170px);padding:20px;
+  height:max(35vh,300px);width: 100%;
 }
-.Footer>div:nth-child(2)>span:hover,.Footer>div:nth-child(3)>span:hover{
-  cursor: pointer;text-decoration: underline;
-}
+.Footer>div:nth-child(1){display: flex;justify-content: space-between;width: 100%;height: 70%;}
+.Footer>div:nth-child(1)>div:nth-child(1){width: 50%;padding-top: 3vh;margin-left: 10%;}
+.Footer>div:nth-child(1)>div:nth-child(2){width: 60%;display: flex;flex-direction: column;justify-content: space-evenly;align-items: center;}
 .Flags{
   display: flex;flex-direction: row;
   padding: 10%;
@@ -111,9 +96,8 @@
  .Flags>div:hover{
     transition: 0.2s ease-in-out;
     border-radius: 20px;
-
  }
- th,td{border: 1px solid black;font-size: clamp(11px,max(1vw,1vh),20px);}
+ th,td{border: 0.5px solid black;font-size: clamp(11px,max(1vw,1vh),20px);}
  .h44{display: inline;}
  .About{
   display: flex;flex-direction: column;
@@ -121,6 +105,23 @@
  }
  h2{text-align: center;}
  .bold{font-weight: 700;}
+ .Header>div:nth-child(2)>div:nth-child(3)>div{
+  background-color: transparent;
+ }
+ .Header>div:nth-child(2)>div:nth-child(3)>div>p{margin: 0;padding: 0;}
+ .Header>div:nth-child(2)>div:nth-child(3)>div>div{
+position: absolute;background-color: rgb(175, 143, 223);display: none;
+}
+.Header>div:nth-child(2)>div:nth-child(3)>div:hover>div{display: flex;flex-direction: column;}
+.Header>div:nth-child(2)>div:nth-child(3)>div>div>div{
+display: flex;flex-direction: row;
+}
+.Header>div:nth-child(2)>div:nth-child(3)>div>div>div>p{margin: 5px;padding: 0;}
+.Header>div:nth-child(2)>div:nth-child(3)>div>div>div>div{
+flex-direction: column;background-color: rgb(175, 143, 223);padding: 10px;position: absolute;left: 97.5%;display: none;margin-top:10px ;
+}
+.Header>div:nth-child(2)>div:nth-child(3)>div>div>div:hover>div{display: flex;}
+.Header>div:nth-child(2)>div:nth-child(3)>div>div>div>div>p{margin:5px;}
 @media only screen and (max-width:800px) {
   .Header{
     flex-direction: column;
@@ -131,15 +132,16 @@
   }
   .Header>div:nth-child(2){
     z-index: 52; flex-direction: column;
-    height:max-content;width: 100%;
+    height:max-content;width: 100%;justify-content: center;
   }
+  #Right{display: none;}
   .Header>div:nth-child(2)>div{
     
     width: 100%;
     padding:1%;align-items: center;
   }
   .Header>div:nth-child(2)>div:nth-child(2){align-items: center;display: flex;width: 100%;}
-  .Header>div:nth-child(2)>div>p{width: max-content;}
+  .Header>div:nth-child(2)>div>p{width: max-content;margin: 0;}
   .MainContent{display: flex;
     flex-direction: column;height:max-content; 
      padding: 4vh;gap: 5vh;
@@ -148,8 +150,12 @@
   .MainContent>div:nth-child(1),.MainContent>div:nth-child(2){
     justify-content: center;
     width: 100%;align-items: center;
+  
   }
+  .MainContent>div:nth-child(2){gap:5vh;}
   .Services{width: 100%;}
   .About{height:fit-content;}
   .Header>div:nth-child(2)>div{display: flex;width: 100%;justify-content: center;}
+  #Right>div{padding-block: 5px;}
+  table{table-layout: auto;width: clamp(200px,60%,400px);}
 }

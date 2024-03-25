@@ -11,7 +11,7 @@ export const MainContent=(props)=>{
                 <div>
                     <div>
                         <div style={{fontSize:30,color:"rgba(129, 87, 191)",fontWeight:400}}>{it.head}</div>
-                        </div>
+                    </div>
                     <div>{it.info}</div>
                 </div>        
             </div>  

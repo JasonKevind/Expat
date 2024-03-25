@@ -5,11 +5,12 @@ export const Image=(props)=>{
     return (
       <div style={{height:"clamp(620px,95vh,1000px)",backgroundImage:`url(../${props.img})`,
       backgroundSize:"cover",backgroundPosition:"center",display:'flex',zIndex:2,
-      flexDirection:'column',
+      flexDirection:'column'
       }}>
         <Header />
-        <div style={{height:"clamp(500px,100%,900px)",display:"flex",justifyContent:"center",alignItems:'center',width:'100%',
-        flexDirection:"column",position:'absolute'}}>
+        <div style={{height:"clamp(500px,100%,900px)",display:"flex",alignItems:'center',width:'100%',
+        flexDirection:"column",justifyContent:'center',position:'absolute',top:'25vh'}}>
+          
             <div className='Img'>
                 <div><p style={{textAlign:'center',color:"rgb(235, 213, 251)",fontSize:"clamp(15px,35%,85px)",
                 fontFamily:"system-ui",padding:0,margin:0}}>{props.head.toUpperCase()}</p></div>
@@ -28,6 +29,7 @@ export const Image=(props)=>{
               <IoArrowDownCircle size={50} color='white'/>
               </div>
         </div>
+        
       </div>
     )
 }

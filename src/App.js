@@ -10,6 +10,7 @@ import { PR } from './components/PR';
 import { SuperVisa } from './components/SuperVisa';
 import { About } from './components/About';
 import { WorkVisa } from './components/WorkVisa';
+import { Contact } from './components/Contact';
 function App() {
   return (
    <div className="App">
@@ -23,6 +24,7 @@ function App() {
         <Route path='/StudyVisa' element={<StudyVisa />} />
         <Route path='/PR' element={<PR />} />
         <Route path='SuperVisa' element={<SuperVisa/>} />
+        <Route path="/Contact" element={<Contact/>} />
         <Route path="*" element={<Home/>} />
      </Routes>
       <Footer/>

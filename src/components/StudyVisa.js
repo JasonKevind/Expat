@@ -151,7 +151,7 @@ Germany stands tall as a beacon of educational excellence, attracting students f
 
 <br></br>In conclusion, the German student visa journey is a testament to the transformative power of education and international collaboration. It embodies the values of diversity, inclusivity, and academic excellence that define Germany's educational landscape. As students embark on this journey, they not only gain access to world-class education but also become ambassadors of knowledge, bridging cultures and forging connections that transcend borders. In the hallowed halls of German universities, a new generation of scholars emerges, poised to shape the future of our world through their passion, intellect, and unwavering resolve.
 </div>,
-"australia":<div style={{display:'flex',flexDirection:'column',alignItems:'center',padding:15,letterSpacing:2.5,lineHeight:2.25}}>
+"australia":<div style={{display:'flex',flexDirection:'column',alignItems:'center',padding:15,letterSpacing:2.5,lineHeight:2.25,width:'100%'}}>
                 <p style={{width:'100%'}}>What Are the Requirements for a Student Visa in Australia?
                 <br></br>For an Australian student visa (subclass 500) application you must submit these documents:</p>
                 <ul>
@@ -307,8 +307,9 @@ the visa fees.</li>
 where your application stands.</li> 
 </ul>
 <h4>Cost/Fee Requirements for an Australia Study Visa</h4>
+            <div style={{display:'flex',overflowX:'wrap'}}>
             <table style={{border:'1px solid black'}} >
-                <tr >
+                <tr>
                     <th>Visa Subclass</th>
                     <th>Base Application Charge</th>
                     <th>Additional Applicant
@@ -340,7 +341,7 @@ Charge</th>
 Affairs or Defense Sector
 
 </td><td>Nil</td><td> Nil</td><td> Nil</td><td> Nil</td></tr>
-            </table>
+            </table></div>
             <h5 style={{margin:0,padding:0}}>International students are required to pay visa fees as per the category they fall in below.</h5>
             <h4>Average Tuition Fees & Course Costs for Indian Students</h4>
             These are the average tuition fees per year for international students according to the official
@@ -363,6 +364,8 @@ take is 3 months.<br></br>
 <tr><td>Vacational Education and Training Sector</td><td> 36 days</td><td> 52 days</td></tr>
 <tr><td>Higher Education Sector</td><td> 17 days</td><td> 32 days</td></tr>
 </table>
+
+
             </div>
 }
  useEffect(()=>{
@@ -373,7 +376,7 @@ take is 3 months.<br></br>
         <Header />
         {
             loc.state?
-        <div style={{display:'flex',gap:15,flexDirection:'column',alignItems:'center',padding:20}}>
+        <div style={{display:'flex',gap:15,flexDirection:'column',alignItems:'justify',padding:20}}>
         <div><h3>Study Visa Process of {loc.state.country[0].toUpperCase()+loc.state.country.substring(1,)}</h3></div>
         {data[loc.state.country]}
         </div>:
