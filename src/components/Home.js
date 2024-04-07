@@ -5,7 +5,7 @@ import { MainContent } from './MainContent';
 export const Home=(props)=>{
  return (
     <>
-    <Image country={""} img={'cheer.jpg'} head={'Convenient Migrations'} info={<div>Tap the arrow given below...</div>} />
+    <Image country={""} img={'cheer.jpg'} head={'Convenient Migrations'} info={<div>Tap the arrow...</div>} />
     <MainContent list={[{'main':"main",'img':"flags.jpg",'head':'Countries We Deal','info':<div style={{paddingInline:10}}>Let it be that you wanna migrate or you wish to study abroad, we can make it possible for you to make to countries like USA, Canada, Germany, Hong-Kong, France, Australia, New Zealand. Details for migration as well as for educational purposes can be viewed by <b>clicking on respective flags below</b> to see the processes involved.</div>}
    ]}/>
    
@@ -32,6 +32,7 @@ with complete legal assistance and guidance, ensuring that you have a hassle-fre
 experience. Our goal is to provide you with a seamless and efficient immigration process, regardless
 of your immigration needs.
    </div>
+  
     </>
  )
 }

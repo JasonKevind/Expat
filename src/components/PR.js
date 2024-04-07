@@ -5,7 +5,7 @@ import { Flags } from './Flags';
 import { useEffect } from 'react';
 export const PR=()=>{
 
-const data={"canada":<div style={{lineHeight:2,display:'flex',flexDirection:'column',padding:20}}>
+const data={"canada":<div style={{lineHeight:2.5,display:'flex',flexDirection:'column',padding:20}}>
     <h4>About Canada PR </h4>
 Express Entry Skilled Immigrant is a category for immigrants who are highly skilled in their respective
 occupations. The Canadian government uses an online system called Express Entry to organize and
@@ -269,6 +269,69 @@ Provinces and territories have specific requirements for language proficiency, e
 experience for immigration applicants. They look for candidates who meet their region&#39;s labor
 market requirements. You must also demonstrate your ability to contribute to the local economy
 and show a genuine desire to live in the province or area you are applying for.
+</div>,
+"ireland":<div style={{lineHeight:2.5}}>
+Ireland offers a pathway to permanent residency for individuals seeking long-term
+settlement in the country. The Irish Permanent Residency program provides eligible
+individuals with an opportunity to establish themselves and their families in Ireland,
+enabling them to benefit from living and working in a vibrant and culturally rich European
+nation.<br></br>
+<h4>Key Benefits of Ireland Permanent Residency:
+</h4><ul>
+<li>Right to Live and Work: Holders of Irish permanent residency are entitled to
+live and work in the country indefinitely.
+</li><li> Access to Public Services: Permanent residents enjoy access to a wide range
+of public services, including healthcare and education.
+</li><li> Path to Citizenship: Permanent residency can serve as a pathway to Irish
+citizenship, subject to meeting eligibility criteria.
+</li><li> Freedom of Movement: Individuals with Irish permanent residency have the
+freedom to travel within the European Union (EU) and the European
+Economic Area (EEA) without requiring additional visas.
+</li></ul>
+<h4>Eligibility Criteria:</h4>
+<h4>To qualify for Ireland Permanent Residency, applicants typically need to satisfy the
+following criteria:</h4>
+<ul>
+<li> Residency Requirement: Applicants must have legally resided in Ireland for a
+specified period, usually five years.
+</li><li> Good Character: Applicants are expected to demonstrate good character and
+conduct, with no criminal record.
+</li><li> Financial Stability: Applicants must demonstrate sufficient financial means to
+support themselves and their dependents.
+</li><li> Language Proficiency: Proficiency in the English language is often a
+prerequisite, evidenced through language tests such as IELTS or TOEFL.
+</li></ul>
+<h4>Cost Breakdown:</h4>
+<ul>The cost breakdown for Ireland Permanent Residency comprises:
+
+<li> Application Fees: There are typically associated fees for submitting a
+permanent residency application.
+</li><li> Legal and Administrative Costs: Applicants may incur costs related to legal
+representation and administrative processing.
+</li><li>Additional Expenses: Depending on individual circumstances, there may be
+additional expenses such as language tests, medical examinations, and
+document translations.</li>
+</ul>
+<h4>
+Additional Information:</h4>
+<ul>
+<li> Documentation: Applicants are usually required to submit various
+documents, including proof of identity, proof of residency, financial
+statements, and any other supporting documentation as necessary.
+</li><li>Processing Time: The processing duration for Ireland Permanent Residency
+applications can vary, but applicants should anticipate a period of several
+months for processing.
+</li><li> Renewal and Maintenance: Permanent residents may need to periodically
+renew their residency status and adhere to any residency requirements to
+maintain their status.</li>
+</ul>
+It is important to note that this information serves as a general guide and may be subject to
+variations based on individual circumstances and the specific requirements set by Irish
+immigration authorities. Prospective applicants are advised to seek advice from immigration
+experts for the most accurate and up-to-date information regarding Ireland Permanent
+Residency. For further assistance and inquiries, please feel free to contact Expats
+Immigration Services Services Services Services Services Services Services for tailored
+support.
 </div>}
 const loc=useLocation();
 useEffect(()=>{
@@ -279,8 +342,8 @@ return (
    {loc.state?
         (<div>
     <Header />
-        <div><h4 style={{color:'#333',fontSize:'max(3vh,3vw)',textAlign:'center'}}>Permanent Residency for {loc.state.country[0].toUpperCase()+loc.state.country.substring(1,)}</h4></div>
-        {data[loc.state.country]}
+        <div  ><h4 style={{color:'#333',fontSize:'max(3vh,3vw)',textAlign:'center'}}>Permanent Residency for {loc.state.country[0].toUpperCase()+loc.state.country.substring(1,)}</h4></div>
+        <div style={{padding:20}}>{data[loc.state.country]}</div>
     </div>):<div>
         <Header/>
         <div style={{height:'60vh'}}>

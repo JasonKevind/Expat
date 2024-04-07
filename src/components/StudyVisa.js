@@ -364,9 +364,156 @@ take is 3 months.<br></br>
 <tr><td>Vacational Education and Training Sector</td><td> 36 days</td><td> 52 days</td></tr>
 <tr><td>Higher Education Sector</td><td> 17 days</td><td> 32 days</td></tr>
 </table>
+            </div>,
+    "usa":<div style={{lineHeight:2.5}}>
+        <h4 className='h44'>Studying in the United States offers several advantages:
+        </h4><br></br>
+<b>Quality Education: </b>The US is home to many prestigious universities known for their high-quality education and cutting-edge research.
+<br></br>
+<b>Diverse Academic Programs:</b> Students have access to a wide range of academic disciplines and specialized programs, allowing them to tailor their education to their interests and career goals.
+<br></br>
+<b>Global Recognition:</b> Degrees from US universities are recognized worldwide and can enhance career prospects both domestically and internationally.
+<br></br>
+<b>Opportunities for Research and Innovation:</b> US universities are leaders in research and innovation, providing students with opportunities to work on groundbreaking projects and collaborate with leading experts in their fields.
+<br></br>
+<b>Cultural Diversity:</b> The US is a melting pot of cultures, offering students the chance to interact with people from diverse backgrounds and perspectives, enriching their educational experience.
+<br></br>
+<b>Networking Opportunities:</b> Studying in the US provides access to a vast network of alumni, professors, and professionals, which can be invaluable for future career opportunities.
+<br></br>
+<b>English Language Proficiency:</b> Immersion in an English-speaking environment helps students improve their language skills, which is beneficial for both academic and professional success.
+<br></br>
+<b>Personal Growth:</b> Living and studying abroad fosters independence, adaptability, and cross-cultural communication skills, all of which are valuable assets in today's globalized world.
+<br></br>
+Overall, studying in the United States can be a transformative experience that opens doors to numerous opportunities and helps students reach their full potential.
+<br></br>
+International students studying in the United States typically have the option to stay back temporarily after completing their studies through Optional Practical Training (OPT) or STEM OPT extension programs.
+<ul>
+<li style={{listStyleType:"none"}}>1.Optional Practical Training (OPT): OPT allows international students to work in their field of study for up to 12 months after completing their degree program. It provides valuable practical experience and allows students to apply their skills in a professional setting.
+</li>
+<li style={{listStyleType:"none"}} >
+2. STEM OPT Extension: Students with degrees in science, technology, engineering, or mathematics (STEM) may be eligible for a 24-month extension of their OPT period, totaling up to 36 months of work authorization. This extension provides additional time for students to gain practical experience and potentially transition to long-term employment in the United States.Both OPT and STEM OPT extension programs are administered by the U.S. Citizenship and Immigration Services (USCIS) and have specific eligibility requirements and application processes. Additionally, employers must comply with certain regulations when hiring international students on OPT or STEM OPT.
+</li></ul>
+Some of the top colleges and universities for international students in the United States include:
+<br></br>
+<ul>
+1.Massachusetts Institute of Technology (MIT)<br></br>
+2.Stanford University<br></br>
+3.University of California,<br></br>
+4.Berkeley Columbia University<br></br>
+5.University of Pennsylvania<br></br>
+6.Yale University<br></br>
+7.Princeton University<br></br>
+8.University of Southern California (USC)<br></br>
+9.New York University (NYU)<br></br>
+10.Harvard University<br></br>
+</ul>
+These institutions often have strong support systems for international students, including dedicated offices for international student services, resources for cultural adjustment, and opportunities for international student organizations and activities. Additionally, they offer diverse academic programs and research opportunities that attract students from around the world.
+    </div>,
+    "ireland":<div style={{lineHeight:2.5}}>
+       <h4 className='h44'>About Ireland Study Visa Process</h4>
+<br></br>Welcome to the section on the Ireland Study Visa Process. Here, you will discover all the
+essential information required to commence your academic journey in Ireland. Ireland is
+globally recognized for its exceptional education system, dynamic cultural milieu, and
+picturesque landscapes, rendering it an optimal choice for international students aspiring
+for a superlative educational experience. Although the visa process may initially appear
+complex, our comprehensive guide is designed to streamline the procedure and facilitate
+the realization of your academic aspirations in Ireland.
+<br></br><h4>Please retain the following information:</h4>
+<h4>Benefits of Studying in Ireland</h4>
+The pursuit of education in Ireland presents a multitude of advantages for international
+students. From esteemed universities and colleges to a hospitable and multicultural milieu,
+Ireland offers a profoundly enriching educational experience. Key benefits encompass
+access to internationally recognized academic programs, opportunities for research and
+innovation, cultural immersion, a diverse student community, and post-study work
+prospects.
+<br></br>
+<h4>Eligibility for Ireland Study Visa:</h4>
+<h4>Prospective applicants for an Ireland Study Visa must fulfill the following criteria:</h4>
+<ul><li> Admission to a full-time course at an accredited institution in Ireland.
+</li><li> Demonstration of sufficient financial means to cover tuition fees, living expenses,
+and healthcare during the stay in Ireland.
+</li><li> Proficiency in the English language, evidenced through recognized tests such as IELTS
+or TOEFL.</li>
+<li> Acquisition of comprehensive health insurance coverage for the entire duration of
+the stay in Ireland.</li>
+<li> Fulfillment of any additional requirements specific to the chosen course or
+institution.</li>
+</ul>
+<h4>Cost Information for Ireland Study Visa</h4>
+The expenses associated with an Ireland Study Visa include:
+<ul>
+<b> Visa Application Fee: </b>The prescribed fee for a study visa application, subject to
+variation based on the applicant&#39;s nationality.
+ <br></br><b>Health Insurance:</b> The cost of procuring comprehensive health insurance coverage
+for the entire duration of the stay in Ireland.
+<br></br><b> Biometric Residence Permit (BRP):</b> Some applicants may be required to remit an
+additional fee for their BRP card.
+<br></br><b> Other Expenses: </b>Applicants are advised to allocate funds for additional expenses
+such as transportation, accommodation, and study materials.
+It is imperative to note that these costs are subject to change, and applicants are strongly
+advised to verify the latest fee information prior to submitting their visa application.
+We stand prepared to offer comprehensive assistance throughout the Ireland Study Visa
+process, ensuring a seamless progression towards your educational pursuits in Ireland.
+Should you have any inquiries or require further assistance, please do not hesitate to reach
+out to us. </ul>
+    </div>,"france":<div style={{lineHeight:2.5}}>
+   <h4> Studying in France has many advantages:
+</h4>
+High-quality education and research possibilities are available in France, which is home to some of the top universities in the world as well as famous organizations in a variety of sectors.
+<br></br>
+<h4>Cultural Richness:</h4>
+Study in one of the world's most vibrantly culturally countries and immerse yourself in French history, art, and culture. International students can choose from a wide variety of experiences in France's many cities and regions.
 
+<h4>Opportunities for Language Acquisition:</h4>
+Learning or honing your French language abilities while studying in France is a special chance that can boost your professional chances and lead to opportunities abroad.
 
-            </div>
+<h4>Economical Education:</h4>
+The cost of tuition in France is comparatively low when compared to other study abroad countries, particularly for public universities. International students can also apply for financial aid programs and scholarships.
+
+<h4>International Environment:</h4> The diversified and multicultural learning environment in France is a result of the country's attraction of students from all over the world. Your academic experience might be enhanced and your horizons can be expanded by this exposure to various cultures and viewpoints.
+
+<h4>Access to Europe:</h4> Studying in France gives you easy access to other European nations for travel, internships, and networking possibilities. France is a member of the European Union and the Schengen Area.
+
+<h4>Prestigious Degrees:</h4>
+Earning a degree from a French university increases your reputation and competitiveness in the global job market. These degrees are widely recognized and appreciated worldwide.
+
+<h4>Innovative Research: </h4>With a large number of research institutes and chances to collaborate with top specialists across a range of disciplines, France is at the forefront of scientific and technical innovation.with numerous research institutions and opportunities for collaboration with leading experts in various fields.
+
+Overall, studying in France offers a unique blend of academic excellence, cultural immersion, and personal growth opportunities, making it an attractive choice for students seeking a world-class education experience.
+<br></br>
+France is home to several prestigious universities known for their academic excellence and research contributions.
+<br></br>
+<h4>Some of the top universities in France include:</h4>
+<br></br><ul>
+<li>Sorbonne University: One of the oldest universities in Europe, Sorbonne University is renowned for its humanities and social sciences programs. It has a rich history dating back to the Middle Ages and is located in the heart of Paris.
+<br></br></li>
+<li>École Normale Supérieure (ENS Paris): ENS Paris is a prestigious institution known for its excellence in science, humanities, and social sciences. It has produced numerous Nobel laureates and Fields Medalists.
+<br></br></li>
+
+<li>Paris Sciences et Lettres (PSL) Research University:
+PSL is a consortium of several leading institutions, including ENS Paris, Collège de France, and Institut Curie. It offers interdisciplinary programs and is highly regarded in research and innovation.
+<br></br></li>
+
+<li>École Polytechnique (X): Established in 1794, École Polytechnique is one of the most prestigious engineering schools in France. It is known for its rigorous academic programs and strong focus on mathematics and science.
+<br></br></li>
+
+<li>Paris-Sud University (Université Paris-Sud): Located in the southern suburbs of Paris, Paris-Sud University is renowned for its research-intensive programs in science, engineering, and medicine.
+<br></br></li>
+
+<li>University of Strasbourg (Université de Strasbourg): With roots dating back to the 16th century, the University of Strasbourg is one of the largest universities in France and is known for its strong emphasis on research and innovation.
+<br></br></li>
+
+<li>Grenoble Alpes University (Université Grenoble Alpes): Situated in the French Alps, Grenoble Alpes University is renowned for its engineering, science, and technology programs. It is closely affiliated with leading research institutions and laboratories in the region.Sciences Po Paris: Sciences Po is a prestigious institution specializing in social sciences, international relations, and political science. It has campuses across France and is highly regarded for its interdisciplinary approach to education.
+<br></br></li>
+
+<li>Toulouse School of Economics (TSE): TSE is a leading institution for economics research and education, known for its contributions to economic theory and policy analysis.
+<br></br></li>
+
+<li>HEC Paris: HEC Paris is one of Europe's top business schools, offering MBA, Executive MBA, and specialized master's programs in management, finance, and entrepreneurship.
+<br></br></li>
+</ul>
+These universities represent just a selection of the diverse and renowned higher education institutions in France, each offering unique strengths and opportunities for students.
+    </div>
 }
  useEffect(()=>{
     window.scrollTo(0,0);
@@ -377,7 +524,7 @@ take is 3 months.<br></br>
         {
             loc.state?
         <div style={{display:'flex',gap:15,flexDirection:'column',alignItems:'justify',padding:20}}>
-        <div><h3>Study Visa Process of {loc.state.country[0].toUpperCase()+loc.state.country.substring(1,)}</h3></div>
+        <div style={{textAlign:"center"}}><h3>Study Visa Process of {loc.state.country[0].toUpperCase()+loc.state.country.substring(1,)}</h3></div>
         {data[loc.state.country]}
         </div>:
         <div style={{height:'100vh'}} >

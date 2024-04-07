@@ -29,16 +29,21 @@ export const Header=()=>{
                 <div onClick={(e)=>{
                     nav("/");
                 }}>Home</div>
-                  <div onClick={(e)=>{
-                    nav("/PR",{state:{country:"canada"}});
-                }}>Permanent Residency</div>
+                  <div>
+                    <div >
+                Permanent Residency
+                <div >
+                    <p onClick={(e)=>nav("/PR",{state:{country:"ireland"}})}>Ireland</p>
+                    <p onClick={(e)=>{nav("/PR",{state:{country:"canada"}})}}>Canada</p>
+                </div>
+                </div></div>
                 <div id="Temporary">
                    <div style={{padding:0}}> 
-                    <p >Temporary Visa</p>
-                    <div>
-                        <div style={{display:'flex'}}>
+                    <p>Temporary Visa</p>
+                    <div style={{width:'max-content',marginLeft:15}} >
+                        <div style={{display:'flex',width:'max-content'}}>
                             <p>Study Visa</p>
-                            <div>
+                            <div id="study">
                             <p onClick={(e)=>{
                                 nav("/StudyVisa",{state:{country:"australia"}})
                             }}>Australia</p>
@@ -51,11 +56,17 @@ export const Header=()=>{
                             <p onClick={(e)=>{
                                 nav("/StudyVisa",{state:{country:"uk"}})
                             }}>UK</p>
+                            <p onClick={(e)=>{
+                                nav("/StudyVisa",{state:{country:"france"}})
+                            }}>France</p>
+                             <p onClick={(e)=>{
+                                nav("/StudyVisa",{state:{country:"ireland"}})
+                            }}>Ireland</p>
                             </div>
                         </div>
-                        <div>
+                        <div >
                             <p>Visit Visa</p>
-                            <div>
+                            <div id="visit">
                             <p onClick={(e)=>{nav("/VisitVisa",{state:{country:"canada"}})}}>Canada</p>
                             <p onClick={(e)=>{
                                 nav("/VisitVisa",{state:{country:"germany"}})
@@ -72,6 +83,12 @@ export const Header=()=>{
                              <p onClick={(e)=>{
                                 nav("/VisitVisa",{state:{country:"australia"}})
                             }}>Australia</p>
+                            <p onClick={(e)=>{
+                                nav("/VisitVisa",{state:{country:"france"}})
+                            }}>France</p>
+                             <p onClick={(e)=>{
+                                nav("/VisitVisa",{state:{country:"ireland"}})
+                            }}>Ireland</p>
                             </div>
                         </div>
                         <div>
@@ -86,7 +103,12 @@ export const Header=()=>{
                                 <p onClick={(e)=>{nav("/WorkVisa",{state:{country:"canada"}})}}>Canada</p>
                             </div>
                         </div>
-                    
+                        <div>
+                            <p>Family Visa</p>
+                            <div>
+                                <p onClick={(e)=>{nav("/FamilyVisa",{state:{country:"ireland"}})}}>Ireland</p>
+                            </div>
+                        </div>
                     </div>
                     </div>
                 </div>

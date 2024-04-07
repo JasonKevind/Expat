@@ -6,6 +6,9 @@
 .Header,.Header>div:nth-child(1),
 .Header>div:nth-child(2),Img>div
 {display: flex;}
+#register{padding:7px;border:3px solid black;cursor:pointer;background-color:black;color: aliceblue;border-radius:5px;width:100px;font-size:15px;transition: 0.3s;}
+#register:hover{background-color:rgb(175, 143, 223) ;color: black;transition: 0.3s;}
+#register:active{background-color: white;transition: 0.2s;}
 .Header,.Header>div:nth-child(1),
 .Header>div:nth-child(2)
 {color:rgb(240, 236, 252);font-weight: 480;font-size: 18px;}
@@ -30,26 +33,8 @@
 {color: #333;transition: 0.3s ease-in-out;}
 .Header>div:nth-child(2)>div>div>p:hover,
 div{text-align: justify;}
-.Img{
-  display: flex;
-  width:clamp(100px,50%,310px);
-  height:clamp(65px,30%,205px);
-  flex-direction: column;
-  border-radius: 15px;
-}
 .divv{padding:max(27.5px,2vw,2vh);line-height: 7.5px;display: flex;flex-direction: column;}
-.Img>div:nth-child(1){display: flex;
-  height:clamp(70px,35%,140px);background-color: rgb(175, 143, 223,0.7);
-  align-items: center;justify-content: center;align-items: center;
-  border-top-left-radius: 15px;border-top-right-radius: 15px;
-  box-shadow: 4px -1px 3px rgb(7, 4, 4);
-}
-.Img>div:nth-child(2){
-  height:clamp(105px,45%,200px);border-radius: 15px;position: relative;top:-20px;
-   background-color: rgba(129, 87, 191, 0.9);bottom:"40px";
-   color:rgb(215, 213, 221);
-   box-shadow: 5px 3px 6px  rgb(7, 4, 4)
-}
+
 .underline{margin: 2%;transition: 0.3s;border: none;background-color: rgb(118, 76, 181);padding:min(1.5%,3vh) min(3.5%,6vw);border-radius: 10px;color: whitesmoke;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
 .underline:hover{transition: 0.3s;background-color: #333;color:whitesmoke}
 .MainContent{
@@ -110,18 +95,57 @@ flex-direction: column;
  }
  .Header>div:nth-child(2)>div:nth-child(3)>div>p{margin: 0;padding: 0;}
  .Header>div:nth-child(2)>div:nth-child(3)>div>div{
-position: absolute;background-color: rgb(175, 143, 223);display: none;
+background-color: rgb(175, 143, 223);display: none;
 }
-.Header>div:nth-child(2)>div:nth-child(3)>div:hover>div{display: flex;flex-direction: column;}
+.Header>div:nth-child(2)>div:nth-child(3)>div:hover>div{display: flex;flex-direction: column;position: absolute;}
 .Header>div:nth-child(2)>div:nth-child(3)>div>div>div{
 display: flex;flex-direction: row;
 }
 .Header>div:nth-child(2)>div:nth-child(3)>div>div>div>p{margin: 5px;padding: 0;}
 .Header>div:nth-child(2)>div:nth-child(3)>div>div>div>div{
-flex-direction: column;background-color: rgb(175, 143, 223);padding: 10px;position: absolute;left: 97.5%;display: none;margin-top:10px ;
+flex-direction: column;background-color: rgb(175, 143, 223);padding: 0px;position: absolute;left: 97.5%;display: none;margin-top:1px ;margin:0;
 }
-.Header>div:nth-child(2)>div:nth-child(3)>div>div>div:hover>div{display: flex;}
-.Header>div:nth-child(2)>div:nth-child(3)>div>div>div>div>p{margin:5px;}
+#study>p,#visit>p{margin:5px;}
+.Header>div>div:nth-child(2)>div:nth-child(3)>div>div>div:hover>div{display: flex;}
+.Header>div>div:nth-child(2)>div:nth-child(3)>div>div>div>div>p{margin:0;padding: 0;}
+.Header>div:nth-child(2)>div:nth-child(3)>div>div>div:hover>div{
+display: flex;
+}
+.Header>div:nth-child(2)>div:nth-child(2)>div{background-color: transparent;padding: 0;}
+.Header>div:nth-child(2)>div:nth-child(2)>div>div{background-color: #333;position: absolute;display: none;}
+.Header>div:nth-child(2)>div:nth-child(2)>div:hover>div{background-color: rgb(175, 143, 223);display: flex;flex-direction: column;color: whitesmoke;margin: 0;padding: 0;}
+.Header>div:nth-child(2)>div:nth-child(2)>div>div>p{margin: 0;padding: 5px;}
+.Header>div:nth-child(2)>div:nth-child(2)>div>div>p:hover{color: black;transition: 0.3s ease-in-out;}
+#form{
+  display: flex;height: clamp(390px,40vh,595px);
+  align-items: center;flex-direction: column;padding-block: 20px;
+}
+#form>div{display: flex;gap: clamp(33px,max(3vh,3vw),44px);justify-content: space-evenly;width: 100%;height: 100%;}
+#form>div>div{display: flex;flex-direction: column;width: 50%;align-items: flex-end;height:100%;justify-content: space-evenly;}
+#form>div:nth-child(2){display: flex;flex-direction: column;}
+#form>div:nth-child(2)>div{display: flex;flex-direction: row;
+  width: 100%;gap:30px;align-items: center;}
+#form>div:nth-child(2)>div>div{width: 50%;}
+#form>div:nth-child(2)>div:nth-child(1){align-items: center;}
+#form>div:nth-child(3){height: 20%;align-items: center;}
+#form>div:nth-child(1){height: 10%;display: flex;}
+#form>div:nth-child(2)>div>div:nth-child(1){align-items: center;display: flex;justify-content: flex-end;}
+.text-area-container {
+  width: 100%; /* Adjust width as needed */
+  height: fit-content; /* Adjust height as needed */
+  overflow: hidden;
+}
+
+.text-area {
+  width: clamp(300px,50%,500px);
+  height: 100%;
+  resize: none; /* Prevent resizing */
+  border: 1px solid #ccc;
+  line-height: 20px;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
 @media only screen and (max-width:800px) {
   .Header{
     flex-direction: column;
@@ -152,10 +176,20 @@ flex-direction: column;background-color: rgb(175, 143, 223);padding: 10px;positi
     width: 100%;align-items: center;
   
   }
+  .text-area{width: clamp(190px,90%,410px)}
+  #form{background-color: rgb(175, 143, 223,0.2);}
   .MainContent>div:nth-child(2){gap:5vh;}
   .Services{width: 100%;}
   .About{height:fit-content;}
   .Header>div:nth-child(2)>div{display: flex;width: 100%;justify-content: center;}
   #Right>div{padding-block: 5px;}
   tr,td,th{border: 1px solid black;}
+  .Header>div:nth-child(2)>div:nth-child(3)>div>div{
+    display: flex;flex-direction: column;height: 0;opacity: 0;transition: all 0.3s ease-out;pointer-events: none;
+  }
+  .Header>div:nth-child(2)>div:nth-child(3)>div:hover>div{
+    height: auto;opacity: 1;transition:all 0.3s ease-in-out;pointer-events: all;transform: translateY(1px);position: relative;
+  }
+  .Header>div:nth-child(2)>div:nth-child(2)>div{align-items: center;justify-content: center;display: flex;flex-direction: column;}
+  .Header>div:nth-child(2)>div:nth-child(2)>div>div{position: relative;width: fit-content;}
 }

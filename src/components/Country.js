@@ -54,10 +54,30 @@ Germany stands tall as a beacon of educational excellence, attracting students f
             },
             "hongkong":{headimg:"hong.jpg",headead:"HongKong",headinfo:basic,maincontent:[{main:"mainhongkong",img:"hongvisit.jpg",head:"Visit Visa process",info:<div>Germany is eminent for its instruction framework that values availability. Most college courses are tuition-free, empowering understudies to seek after their scholastic goals without the monetary burden commonly found in other countries. Indeed private colleges, whereas less in number, have generally lower expenses compared...<br></br><ReadMore country={"hongkong"} link={"VisitVisa"} /></div>}]
             },
-            "usa":{headimg:"usa1.jpg",headead:"USA",headinfo:basic,maincontent:[{main:"mainusa",img:"visitusa.jpg",head:"Visit Visa process",info:<div>Traveling to the United States is a dream for many people around the world, whether for tourism, education, business, or meeting family and friends. However, before you pack your bags and begin your journey, it is important to understand the intricacies of the US visa application process. This article aims to provide....<br></br><ReadMore country={"usa"} link={"VisitVisa"} /></div>}]}
+            "usa":{headimg:"usa1.jpg",headead:"USA",headinfo:basic,maincontent:[{main:"mainusa",img:"visitusa.jpg",head:"Visit Visa process",info:<div>Traveling to the United States is a dream for many people around the world, whether for tourism, education, business, or meeting family and friends. However, before you pack your bags and begin your journey, it is important to understand the intricacies of the US visa application process. This article aims to provide....<br></br><ReadMore country={"usa"} link={"VisitVisa"} /></div>},
+            {main:"studyvisausa",img:"OIP.jpg",head:"Study Visa Prcoess",info:<div>The US is home to many prestigious universities known for their high-quality education and cutting-edge research....<br></br>
+            <ReadMore link={"StudyVisa"} country={"usa"} />
+            </div>}]}
         ,"australia":{headimg:"australia.jpg",headed:"Australia",headinfo:basic,maincontent:[{main:"mainaustralia",img:"australiastudy.jpg",head:"Study Visa Process",info:<div>For an Australian student visa (subclass 500) application you must submit these documents:....<br></br><ReadMore country={"australia"} link={"StudyVisa"} /></div>},
             {main:"visitvisaaustralia",img:"australiavisit.webp",head:"Visit Visa Process",info:<div>The documents you must attach to your Australian tourist visa application include:....<br></br><ReadMore country={"australia"} link={"VisitVisa"} /></div>}
-        ]}
+        ]},
+        "ireland":{headimg:"ire.jpg",headed:"Ireland",headinfo:basic,maincontent:[{main:"mainireland",img:"studyireland.jpg",head:"Study Visa Process",info:<div>Ireland is renowned for its esteemed education system, vibrant culture, and captivating
+        landscapes. Whether you seek higher education or language courses, Ireland offers a
+        diverse array of academic opportunities. Our proficient team will aid you in obtaining
+        student visas, securing university admissions, and acclimating to student life in Ireland....<br></br><ReadMore link={"StudyVisa"} country={"ireland"} /></div>},
+        {main:"visitvisaireland",img:"irelandwall.jpg",head:"Visit Visa Process",info:<div>Immerse yourself in the enchantment of Ireland&#39;s rich history, breathtaking scenery, and
+        warm hospitality. Whether you are planning a brief vacation or an extended stay, Ireland
+        extends a warm welcome to visitors from across the globe.Experience the allure of Ireland with a visit or tourist visa, affording you the opportunity to
+immerse yourself in the splendor of this captivating nation. From the rugged cliffs of the
+Wild Atlantic Way to the historic thoroughfares of Dublin, Ireland enthralls guests with its
+natural grandeur, profound heritage, and gracious hospitality.....<br></br><ReadMore link={"VisitVisa"} country={"ireland"} /></div>}
+        ]},
+        "france":{headimg:"France.jpg",headed:"France",headinfo:basic,maincontent:[{main:"mainfrance",img:"francestudy.jpg",head:"Study Visa Process",info:<div>High-quality education and research possibilities are available in France, which is home to some of the top universities in the world as well as famous organizations in a variety of sectors....<br></br>
+         <ReadMore country={"france"} link={"StudyVisa"} />
+        </div>},
+        {main:"visitvisafrance",img:"visitfrance.jpg",head:"Visit Visa Process",info:<div>France is one of the world’s top tourist destinations, welcoming millions of visitors each year. Its tourism industry is diverse, offering something for every type of traveler....<br></br>
+        <ReadMore country={"france"} link={"VisitVisa"} />
+        </div>}]}
         }
             
     return(

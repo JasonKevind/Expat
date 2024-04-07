@@ -255,7 +255,91 @@ you when you travel.
 <p  style={{width:'100%'}}>Most people choose to submit their visa application online as it is the most convenient method.
 <br></br>Once you get to Australia, you have to complete an Incoming Passenger Card at the border.
 
-</p></div>
+</p></div>,
+"ireland":<div style={{lineHeight:2.5}}>
+Ireland, renowned for its captivating landscapes, rich cultural heritage, and hospitable
+populace, extends a warm invitation to visitors from across the globe. Whether captivated
+by its vibrant urban centers, historic landmarks, or picturesque rural expanses, Ireland
+promises an unforgettable sojourn for travelers. Facilitating this journey, the Ireland
+Visit/Tourist Visa offers entry to explore the marvels of this bewitching island nation.
+<h4>Benefits of Ireland Visit/Tourist Visa:</h4>
+<ul> <li>Exploration of iconic landmarks such as the Cliffs of Moher, the Ring of Kerry, and
+the Giant&#39;s Causeway.</li>
+<li> Immersion in Irish culture through traditional music, dance, and festivals.
+</li><li> Embrace of the warmth and geniality of the Irish people.
+</li><li> Experience of the allure of quaint villages and bustling cities alike.
+</li><li> Indulgence in delectable cuisine, including hearty Irish stews and freshly caught
+seafood.</li>
+</ul><h4>Eligibility for Ireland Visit/Tourist Visa:</h4>
+<h4>To qualify for an Ireland Visit/Tourist Visa, applicants must meet the following criteria:
+</h4><ul> <li>Possession of a valid passport with a minimum validity of six months beyond the
+intended stay.</li>
+<li> Provision of evidence of adequate funds to cover the visit&#39;s duration.
+</li><li> Demonstration of intent to depart from Ireland upon visa expiration.
+</li><li> Maintenance of a clear criminal record and good character.
+</li><li> Acquisition of travel insurance covering medical expenses and repatriation.
+</li><li> Submission of a completed visa application form and requisite supporting
+documents.</li>
+</ul>
+<h4>Cost Breakdown for Ireland Visit/Tourist Visa:</h4>
+<h4>The cost breakdown for an Ireland Visit/Tourist Visa generally encompasses:
+</h4><ul><li>Visa application fee: variable based on the applicant&#39;s nationality and visa type.
+ </li><li>Biometric data enrollment fee (if applicable).
+ </li> <li>Additional service fees imposed by visa application centers (if applicable).
+ </li><li> It is pertinent to note that visa fees are subject to change and should be verified
+at the time of application.</li>
+</ul>
+<h4>Other Pertinent Information:</h4>
+<ul>
+<li>Processing Time: The processing time for an Ireland Visit/Tourist Visa varies in
+accordance with application volume and individual circumstances. Applicants are
+strongly advised to apply well in advance of their intended travel dates.
+</li><li>Visa Validity: The Ireland Visit/Tourist Visa is typically issued for a specified period,
+permitting travelers to stay in Ireland for a maximum duration. Adherence to the
+visa&#39;s validity and departure requisites is imperative to avert potential immigration
+issues.</li>
+<li> Visa Extension: Under specific circumstances, travelers may be eligible for an
+extension of their stay in Ireland. However, extension requests must meet specific
+criteria and be submitted prior to the visa expiration date.
+</li><li> Visa Exemptions: Certain individuals may be exempt from obtaining an Ireland
+Visit/Tourist Visa based on their nationality or purpose of visit. It is advisable to
+consult the official guidelines or the nearest Irish embassy or consulate for
+clarification.</li>
+</ul>
+</div>,
+"france":<div style={{lineHeight:2.5}}>
+    France is one of the world’s top tourist destinations, welcoming millions of visitors each year. Its tourism industry is diverse, offering something for every type of traveler. From iconic landmarks like the Eiffel Tower and Notre Dame Cathedral in Paris to the picturesque vineyards of Bordeaux and the sun-soaked beaches of the French Riviera, France boasts a wide range of attractions. Visitors can indulge in world-renowned cuisine, explore historic castles and chateaux, wander through charming villages, and experience the rich cultural heritage that permeates every corner of the country. Additionally, France’s efficient transportation network makes it easy for tourists to navigate between cities and regions, further enhancing the appeal of visiting this beautiful country. Choosing the “best” place to visit in France depends on individual preferences and interests. However, some top destinations that appeal to many travelers include:
+<br></br>
+<h4>Best places to visit</h4>
+<ul>
+1.Paris: Known as the “City of Light,” Paris is renowned for its iconic landmarks such as the Eiffel Tower, Notre-Dame Cathedral, Louvre Museum, and Champs-Élysées. Visitors can also enjoy strolling along the Seine River, exploring charming neighborhoods like Montmartre, and indulging in exquisite cuisine.
+<br></br>
+2. Provence: Famous for its stunning landscapes, picturesque villages, and fields of lavender and sunflowers, Provence offers a quintessential French experience. Visitors can explore cities like Avignon and Aix-en-Provence, visit historic sites like the Pont du Gard Roman aqueduct, and savor delicious Provençal cuisine.
+<br></br>
+
+3. French Riviera (Côte d’Azur): Stretching along the Mediterranean coast, the French Riviera is known for its glamorous resorts, beautiful beaches, and vibrant nightlife. Highlights include the cities of Nice, Cannes, and Monaco, as well as the charming hilltop village of Eze.
+<br></br>
+
+4. Loire Valley: Renowned for its magnificent chateaux and historic villages, the Loire Valley is a UNESCO World Heritage site. Visitors can explore fairy-tale castles like Château de Chambord and Château de Chenonceau, as well as enjoy wine tasting in the region’s vineyards.
+<br></br>
+
+5. Mont Saint-Michel: Rising dramatically from the sea, Mont Saint-Michel is a UNESCO-listed island commune topped by a medieval abbey. Visitors can explore the narrow cobblestone streets, visit the abbey, and enjoy panoramic views of the surrounding bay. These are just a few of the many incredible destinations France has to offer, each with its own unique attractions and charm.
+</ul>
+<h4>
+The required documents for a France visit visa, also known as a Schengen visa, typically include:
+</h4><ul>
+<b>1.Passport:</b> Valid for at least three months beyond the intended stay in France and issued within the last ten years, with at least two blank pages.
+<br></br><b>2. Visa application form:</b> Completed and signed, available from the French consulate or embassy website.
+<br></br><b>3. Passport-sized photos:</b> Typically two recent photos meeting Schengen visa photo requirements.
+<br></br><b>4. Travel itinerary:</b> Including flight reservations, accommodation bookings, and a detailed plan of activities during the visit.
+<br></br><b>5. Travel insurance:</b> Proof of travel medical insurance covering expenses up to €30,000 for medical emergencies and repatriation.
+<br></br><b>6. Proof of accommodation:</b> Such as hotel reservations, a letter of invitation from a host in France, or rental agreement if staying with family or friends.
+<br></br><b>7. Proof of financial means:</b> Bank statements or a letter from an employer confirming sufficient funds to cover the expenses during the visit.
+<br></br><b>8. Proof of ties to home country:</b> Documentation demonstrating strong ties to the home country, such as employment letter, property ownership, or family commitments, to show intent to return.
+<br></br><b>9. Visa fee:</b> Payment of the visa application fee, which varies depending on the type of visa and applicant’s nationality.
+<br></br><b>10. Additional documents:</b> Depending on the purpose of the visit, additional documents may be required, such as invitation letters for business trips or enrollment letters for students.
+</ul>
+</div>
     }
     useEffect(()=>{
         window.scrollTo(0,0);
