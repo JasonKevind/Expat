@@ -42,11 +42,11 @@ Canada is committed to environmental sustainability and preserving natural beaut
        <h4 className='h44'>Types Of Temporary Resident Visa In Canada</h4>
 <br></br>
 There are different types of Canada visitor visas available for foreign citizens. These include:
-<h5> Canada Tourist Visa or Visitor Visa:</h5> A Canadian consulate issues this type of visa for the
+<h4> Canada Tourist Visa or Visitor Visa:</h4> A Canadian consulate issues this type of visa for the
 purpose of visiting the country.
-<h5> Super Visa:</h5> This is a visa for parents, grandparents, or retired individuals related to Canadian
+<h4> Super Visa:</h4> This is a visa for parents, grandparents, or retired individuals related to Canadian
 permanent residents and citizens.
-<h5>Businesspersons Visitor Visa:</h5> A business visitor visa in Canada is issued to foreign business
+<h4>Businesspersons Visitor Visa:</h4> A business visitor visa in Canada is issued to foreign business
 people visiting the country for conferences, meetings, or deals.
 If you are planning to apply for a Canada Visitor Visa or Tourist Visa, you can rely on Exptas
 Immigration for expert assistance. We are renowned for our exceptional consultancy services and
@@ -54,7 +54,7 @@ are considered as one of the best consultants for Canada Visitor and Tourist Vis
 consultant, we help you to identify and apply for the right visa type that suits your profile, and
 ensure a hassle-free migration process to Canada.
 
-<h5>You can do the following with your tourist Visa:</h5>
+<h4>You can do the following with your tourist Visa:</h4>
 <br></br>Enter and stay in Canada for up to 6 months:Your visa currently grants you temporary
 legal status.<br></br>
 Search for employment opportunities in Canada:You must hold a valid work permit to
@@ -163,14 +163,6 @@ Remember to check the specific requirements and eligibility criteria for the par
    
    </div>,
    "usa":<div style={{display:'flex',flexDirection:'column',alignItems:'center',padding:15,letterSpacing:2.5,lineHeight:2.25}}>
-        <h4>The United States has many types of visas for foreign countries. Some of the most common types of visas include:
-        </h4>
-<h4>Tourist Visa (B-2 Visa):</h4> For individuals planning to travel to the United States for tourism, entertainment, or to visit family and friends of friends.
-<h4>Business Visa (B-2 Visa) -1 Visa):</h4> For individuals traveling to the United States for business, such as attending conferences, meetings, or negotiations.
-<h4>Student Visa (F-1 Visa):</h4> Designed for individuals who wish to study or teach a language at an accredited institution in the United States.
-<h4>Employment Visa (H-1B Visa):</h4> For aliens who have special skills or expertise and are employed by a U.S. employer.
-<h4>Family Immigration Visa (IR-1), CR-1, F2A, etc.):</h4> Applicable to spouses, parents, children and siblings of US citizens or permanent residents. It is legal to come to the United States.
-Each visa type has its own requirements, applications and processing times. It is important to determine the most appropriate visa type according to your visit purpose and personal situation.
 
 <h4>Visa application process:</h4>
 The US visa application process generally includes the following steps:
