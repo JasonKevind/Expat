@@ -8,6 +8,9 @@ import { Flags } from './Flags';
 import { useEffect } from 'react';
 export const Country=()=>{
     const loc=useLocation();
+    useEffect((e)=>{
+        window.scrollTo(0,0);
+    },[loc.pathname]) 
     const basic="You can view the details from tourism to educational purposes below...";
     const data={"uk":{headimg:"ukhome.JPG","headinfo":basic,"maincontent":[
                 {"main":"mainuk","img":"ukstudy.JPG","head":"Why to study in UK","info":<div>A degree from a UK institution could be a to proficient success. Wherever within the world you select to seek after your career, a degree from a college within the joined together Kingdom is globally regarded and considered quality instruction.....<br></br>
@@ -17,10 +20,8 @@ export const Country=()=>{
                 {"main":"timeuk","img":"ukflag.JPG","head":"Processing time","info":"How long it takes to urge a decision. A choice will ordinarily be made within 8 weeks. You may be able to pay to induce a quicker choice - you’ll be told if you'll be able you apply. After you apply You’ll be reached on the off chance that your application is complex and will take longer, for example, because:your supporting archives ought to be verified you ought to go to an interview of your circumstances (for illustration if you've got a criminal conviction) If you would like to alter something in your application after you’ve sent it contact UK Visas and Migration (UKVI). You can inquire to pull back your application by reaching UKVI. Your charge will as it were be discounted on the off chance that UKVI has not begun handling your application."},              
                 {"main":"visitvisauk","img":"toweruk.jpg","head":"Visit Visa Processes","info":<div>The UK visitor visa, also known as a standard visitor visa or UK traveller visa, licenses exterior nationals to visit the UK as a traveller, for commerce, for consideration, and other permitted works out for a brief period of up to 6 months......<br></br>
                 <ReadMore country={"uk"} link={'VisitVisa'} />
-                </div>},
-                
-                ]          
-                
+                </div>}, 
+                ]             
             },
             "canada":{headimg:"canada.jpg","headhead":"Canada","headinfo":basic,"maincontent":[{"main":"maincanada","img":"canadasea.jpg","head":"Why to study in Canada","info":<div style={{lineHeight:1.8}}><h4 className='h44'>Economic Opportunities </h4>: Explore Thriving Economic Prospects In Canada.<br></br>
             <h4 className='h44'>Quality Of Life </h4>: Understand Why Canada Is Renowned For Its High Quality Of Life.<br></br>
@@ -87,9 +88,7 @@ natural grandeur, profound heritage, and gracious hospitality.....<br></br><Read
         </div>}
         ]}
         }
-    useEffect((e)=>{
-        window.scrollTo(0,0);
-    },[loc.pathname])       
+          
     return(
         <>
             {
