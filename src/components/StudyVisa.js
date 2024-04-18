@@ -365,7 +365,7 @@ take is 3 months.<br></br>
 <tr><td>Higher Education Sector</td><td> 17 days</td><td> 32 days</td></tr>
 </table>
             </div>,
-    "usa":<div style={{lineHeight:2.5}}>
+    "USA":<div style={{lineHeight:2.5}}>
         <h4 className='h44'>Studying in the United States offers several advantages:
         </h4><br></br>
 <b>Quality Education: </b>The US is home to many prestigious universities known for their high-quality education and cutting-edge research.
@@ -489,7 +489,6 @@ France is home to several prestigious universities known for their academic exce
 <br></br></li>
 <li>École Normale Supérieure (ENS Paris): ENS Paris is a prestigious institution known for its excellence in science, humanities, and social sciences. It has produced numerous Nobel laureates and Fields Medalists.
 <br></br></li>
-
 <li>Paris Sciences et Lettres (PSL) Research University:
 PSL is a consortium of several leading institutions, including ENS Paris, Collège de France, and Institut Curie. It offers interdisciplinary programs and is highly regarded in research and innovation.
 <br></br></li>
@@ -513,7 +512,104 @@ PSL is a consortium of several leading institutions, including ENS Paris, Collè
 <br></br></li>
 </ul>
 These universities represent just a selection of the diverse and renowned higher education institutions in France, each offering unique strengths and opportunities for students.
-    </div>
+    </div>,
+    "New Zealand":<div style={{lineHeight:2.5}}>
+        <h4>About New Zealand Study Visa Process :</h4>
+New Zealand is a popular destination among international students who are looking for high-quality
+education. The study visa process is specifically designed to help students achieve their academic
+goals in a safe, welcoming, and multicultural society. This process is designed to provide easy access
+to world-class educational institutions and allow students to explore the diverse cultural and natural
+landscapes of New Zealand.<br></br>
+<h4>Benefits of Studying in New Work Opportunities Zealand:
+</h4>
+<ul> 
+    <li>High-Quality Education: New Zealand is known for its excellent education system, with
+universities and institutions consistently ranked among the top in the world.
+</li><li> Safe and Inclusive Environment: Students experience a safe and welcoming environment,
+promoting personal growth and cultural exchange.
+</li><li> Post-Study Work Opportunities: Graduates may be eligible for post-study work visas,
+allowing them to gain work experience in New Zealand after completing their studies.
+</li><li> Beautiful Natural Landscapes: Students have the opportunity to explore New Zealand&#39;s
+stunning landscapes, from pristine beaches to majestic mountains, offering a unique
+backdrop to their academic journey.
+</li><li> Research Opportunities: New Zealand universities are engaged in cutting-edge research
+across various fields, providing students with opportunities to participate in research
+projects and gain hands-on experience.
+</li><li> Work Opportunities: International students studying in New Zealand may have
+opportunities to work part-time during their studies and full-time during scheduled breaks,
+gaining valuable work experience and supporting themselves financially.
+</li><li> Post-Study Work Options: After completing their studies, international students may be
+eligible for post-study work visas, allowing them to gain work experience in New Zealand
+and potentially transition to permanent residency.
+</li></ul>
+Studying in New Zealand provides a comprehensive educational experience that combines academic
+excellence with cultural diversity, outdoor adventures, and opportunities for personal and
+professional growth. For international students looking to study in New Zealand, there are several
+colleges and universities that are particularly popular and well-regarded. These include:
+<br></br>
+<ul><li>University of Auckland: It is the highest-ranked university in New Zealand, offering a wide
+range of programs and a diverse student population, making it an attractive choice for
+international students.</li>
+<li> University of Otago: Known for its strong research programs and vibrant student life, the
+University of Otago attracts many international students, especially in the fields of health
+sciences, humanities, and sciences.
+</li><li> Victoria University of Wellington: With a focus on innovation and research, Victoria
+University of Wellington offers a diverse range of programs in arts, law, science, and more,
+making it appealing to international students seeking academic excellence.
+</li>
+<li> University of Canterbury: Renowned for its engineering, science, and business programs,
+the University of Canterbury provides a supportive learning environment and opportunities
+for international students to excel.
+</li><li> University of Waikato: With a strong emphasis on practical learning and industry
+connections, the University of Waikato offers programs in education, management,
+computer science, and more, attracting students from around the world.
+</li><li> Massey University: Massey University is known for its expertise in agriculture, veterinary
+science, and creative arts, offering a range of programs tailored to the needs of international
+students.
+</li><li> AUT University (Auckland University of Technology): AUT University is recognized for its
+industry-focused programs and strong links with businesses, making it an attractive choice
+for international students seeking practical experience and career opportunities.
+</li></ul><h4>Note that these institutions offer excellent academic programs, support services for international
+students, and various opportunities.</h4>
+
+<h4>Eligibility for a New Zealand Study Visa:</h4>
+To be eligible for a New Zealand study visa, you must have been accepted into a recognized
+education institution in New Zealand and meet certain health and character requirements.
+<h4>Eligibility criteria for a New Zealand study visa typically include:
+</h4>
+<ul>
+<li> Acceptance into a recognized New Zealand education institution.
+</li><li> Proof of sufficient funds to cover tuition fees, living expenses, and return transportation.
+</li><li> Health and character requirements.
+</li><li>Adequate health insurance coverage for the duration of the stay.
+</li><li>Compliance with New Zealand immigration laws and regulations.
+</li><br></br></ul>
+<h4>Financial Requirements:</h4>
+<h4>Applicants for a New Zealand study visa must demonstrate that they have sufficient financial
+resources to support themselves during their stay. This includes:
+</h4>
+<ul>
+<li> Proof of payment for tuition fees or evidence of scholarship funding.
+</li><li> Proof of payment for tuition fees or evidence of scholarship funding.
+</li><li> Bank statements or financial guarantees showing enough funds to cover living expenses.
+</li><li> Documentation of any additional sources of financial support, such as sponsorships or
+grants.</li>
+</ul>
+<h4>Other Requirements for New Zealand Study Visa:
+</h4><br></br>In addition to the basic eligibility criteria, applicants may need to fulfill other requirements, such as:
+<ul>
+<li>English language proficiency: Applicants may need to demonstrate proficiency in English
+through standardized tests such as IELTS or TOEFL.
+</li><li>Health insurance: International students are required to have appropriate health insurance
+coverage for the duration of their stay in New Zealand.
+
+</li> <li>Biometric information: Some applicants may need to provide biometric information as part
+of the visa application process.
+</li> <li> Proof of accommodation: Applicants may need to provide evidence of accommodation
+arrangements in New Zealand.
+</li><li> Academic transcripts and qualifications: Applicants may need to submit academic transcripts
+and certificates as part of the application process.
+</li></ul></div>
 }
  useEffect(()=>{
     window.scrollTo(0,0);

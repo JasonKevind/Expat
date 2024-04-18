@@ -54,9 +54,9 @@ Germany stands tall as a beacon of educational excellence, attracting students f
             },
             "hongkong":{headimg:"hong.jpg",headead:"HongKong",headinfo:basic,maincontent:[{main:"mainhongkong",img:"hongvisit.jpg",head:"Visit Visa process",info:<div>Germany is eminent for its instruction framework that values availability. Most college courses are tuition-free, empowering understudies to seek after their scholastic goals without the monetary burden commonly found in other countries. Indeed private colleges, whereas less in number, have generally lower expenses compared...<br></br><ReadMore country={"hongkong"} link={"VisitVisa"} /></div>}]
             },
-            "usa":{headimg:"usa1.jpg",headead:"USA",headinfo:basic,maincontent:[{main:"mainusa",img:"visitusa.jpg",head:"Visit Visa process",info:<div>Traveling to the United States is a dream for many people around the world, whether for tourism, education, business, or meeting family and friends. However, before you pack your bags and begin your journey, it is important to understand the intricacies of the US visa application process. This article aims to provide....<br></br><ReadMore country={"usa"} link={"VisitVisa"} /></div>},
+            "USA":{headimg:"usa1.jpg",headead:"USA",headinfo:basic,maincontent:[{main:"mainusa",img:"visitusa.jpg",head:"Visit Visa process",info:<div>Traveling to the United States is a dream for many people around the world, whether for tourism, education, business, or meeting family and friends. However, before you pack your bags and begin your journey, it is important to understand the intricacies of the US visa application process. This article aims to provide....<br></br><ReadMore country={"USA"} link={"VisitVisa"} /></div>},
             {main:"studyvisausa",img:"OIP.jpg",head:"Study Visa Prcoess",info:<div>The US is home to many prestigious universities known for their high-quality education and cutting-edge research....<br></br>
-            <ReadMore link={"StudyVisa"} country={"usa"} />
+            <ReadMore link={"StudyVisa"} country={"USA"} />
             </div>}]}
         ,"australia":{headimg:"australia.jpg",headed:"Australia",headinfo:basic,maincontent:[{main:"mainaustralia",img:"australiastudy.jpg",head:"Study Visa Process",info:<div>For an Australian student visa (subclass 500) application you must submit these documents:....<br></br><ReadMore country={"australia"} link={"StudyVisa"} /></div>},
             {main:"visitvisaaustralia",img:"australiavisit.webp",head:"Visit Visa Process",info:<div>The documents you must attach to your Australian tourist visa application include:....<br></br><ReadMore country={"australia"} link={"VisitVisa"} /></div>}
@@ -77,7 +77,14 @@ natural grandeur, profound heritage, and gracious hospitality.....<br></br><Read
         </div>},
         {main:"visitvisafrance",img:"visitfrance.jpg",head:"Visit Visa Process",info:<div>France is one of the world’s top tourist destinations, welcoming millions of visitors each year. Its tourism industry is diverse, offering something for every type of traveler....<br></br>
         <ReadMore country={"france"} link={"VisitVisa"} />
-        </div>}]}
+        </div>}]},
+        "new zealand":{headimg:"newz.jpg",headed:"New Zealand",headinfo:basic,maincontent:[{main:"mainnewzealand",img:"newzealandstudy.jpg",head:"Study Visa Process",info:<div>New Zealand is a popular destination among international students who are looking for high-quality
+        education. The study visa process is specifically designed to help students achieve their academic
+        goals in a safe, welcoming, and multicultural society....<br></br><ReadMore link={"StudyVisa"} country={"New Zealand"} /></div>},
+        {main:"visitnewzealand",img:"newzeavisit.jpg",head:"Visit Visa Process",info:<div>
+            A New Zealand visitor visa allows you to travel to New Zealand for tourism, visiting friends or family, or other short-term non-work activities. The visitor visa typically permits stays of up to 9 months. To apply, you'll need to meet certain eligibility criteria, provide necessary documentation such as proof of funds and a return ticket, and pay the application fee. You can apply online or through a paper application, and processing times vary....<br></br><ReadMore link={"VisitVisa"} country={"New Zealand"} />
+        </div>}
+        ]}
         }
             
     return(

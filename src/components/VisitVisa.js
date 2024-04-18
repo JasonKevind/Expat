@@ -12,14 +12,14 @@ export const VisitVisa=(props)=>{
        "canada":<div style={{display:'flex',flexDirection:'column',alignItems:'center',padding:15,letterSpacing:2.5,lineHeight:2.25}}>
         <div>
         <h4 className='h44'>What is a Canada Visitor Visa?</h4><br></br>
-The Canada Visitor Visa is a Temporary Resident Visa that permits the holder to visit Canada for
-various reasons, including tourism, holidays, or visiting family. To enter Canada using the Canada
-Tourist Visa, you can approach a Canadian port of entry and request permission to enter the
-country. Border Patrol Officers are authorized to grant or deny entry based on your documentation
-and individual circumstances. If you have received a Visitor visa to Canada, and Border Patrol
-Officers determine that you have no criminal intent, you will be allowed to enter Canada and begin
-your holiday or family visit.
-<br></br>
+        The Canada Visitor Visa is a Temporary Resident Visa that permits the holder to visit Canada for
+        various reasons, including tourism, holidays, or visiting family. To enter Canada using the Canada
+        Tourist Visa, you can approach a Canadian port of entry and request permission to enter the
+        country. Border Patrol Officers are authorized to grant or deny entry based on your documentation
+        and individual circumstances. If you have received a Visitor visa to Canada, and Border Patrol
+        Officers determine that you have no criminal intent, you will be allowed to enter Canada and begin
+        your holiday or family visit.
+        <br></br>
 <h4 className='h44'>Do I Need to Apply for a Canada Visitor Visa?</h4><br></br>
 Many travelers visiting Canada will require a Visitor visa to gain entry, but there are certain countries
 whose nationals are exempt from this requirement and can enter freely with just their passports.
@@ -160,11 +160,10 @@ Remember to check the specific requirements and eligibility criteria for the par
    When filling out the online application frame, compassionate show your eagerly and guarantee that your archives and all the points of interest you give are precise. Giving imaginary data or fake or invalid reports will lead to ask dismissal. Indeed if you are fortunate to get the visa, the Migration officers at the air terminal may deny you section if they find narrative discrepancies.
    It is moreover imperative to note that online visas are as it were for brief term visits, not amplified remains on the island. If your trade keeps you on the island longer, endeavor to apply specifically to the Remote Missions office. Too, note that outsiders on an electronic visa are not permitted to work whereas in the nation. As it were guests with a work allow are permitted to lock in in any paid employment.
    Applying for a Hong Kong visa for Indians online is simple on VisaHQ. Visit our stage to fill out and yield the application frame.
-   
    </div>,
-   "usa":<div style={{display:'flex',flexDirection:'column',alignItems:'center',padding:15,letterSpacing:2.5,lineHeight:2.25}}>
+   "USA":<div style={{display:'flex',flexDirection:'column',alignItems:'center',padding:15,letterSpacing:2.5,lineHeight:2.25}}>
 
-<h4>Visa application process:</h4>
+<h4 className='h44'>Visa application process</h4>
 The US visa application process generally includes the following steps:
 
 Approval of your visa: Submit to the US Department of State website to determine which visa you will receive. The one that best suits your travel purpose.
@@ -331,7 +330,57 @@ The required documents for a France visit visa, also known as a Schengen visa, t
 <br></br><b>9. Visa fee:</b> Payment of the visa application fee, which varies depending on the type of visa and applicant’s nationality.
 <br></br><b>10. Additional documents:</b> Depending on the purpose of the visit, additional documents may be required, such as invitation letters for business trips or enrollment letters for students.
 </ul>
-</div>
+</div>,
+"New Zealand":<div style={{lineHeight:2.5}}>
+A New Zealand visitor visa allows you to travel to New Zealand for tourism, visiting friends or family, or other short-term non-work activities. The visitor visa typically permits stays of up to 9 months. To apply, you'll need to meet certain eligibility criteria, provide necessary documentation such as proof of funds and a return ticket, and pay the application fee. You can apply online or through a paper application, and processing times vary.
+<br></br>
+Here are some compelling reasons to visit New Zealand:
+<br></br>
+<ul>
+<b>1. **Spectacular landscapes:**</b> From the majestic mountains of the Southern Alps to the pristine beaches of the Bay of Islands, New Zealand's natural beauty is unparalleled.
+<br></br>
+<b>2. **Outdoor adventures:**</b> New Zealand is an adventurer's paradise, offering activities such as hiking, skiing, surfing, bungee jumping, and skydiving.
+<br></br>
+<b>3. **Unique wildlife:**</b> Encounter native wildlife like kiwi birds, dolphins, seals, and penguins in their natural habitats.
+<br></br>
+<b>4. **Maori culture:**</b> Learn about the rich Maori heritage through cultural experiences, performances, and visits to historical sites.
+<br></br>
+<b>5. **Wine and cuisine:**</b> Explore New Zealand's world-renowned wine regions and indulge in fresh, locally sourced cuisine.
+<br></br>
+<b>6. **Friendly locals:**</b> Experience the warm hospitality of Kiwis, known for their friendly and laid-back attitude.
+<br></br>
+<b>7. **Sustainability:**</b> New Zealand is committed to environmental conservation, making it an ideal destination for eco-conscious travelers.
+<br></br>
+<b>8. **Stunning film locations:**</b> Visit iconic filming locations from movies like "The Lord of the Rings" and "The Hobbit" trilogy.
+<br></br>
+<b>9. **Peaceful and safe:**</b> Enjoy the relaxed atmosphere and low crime rates that make New Zealand a safe and peaceful destination.
+<br></br>
+<b>10. **Stargazing:**</b> Experience some of the clearest skies in the world for stargazing, especially in remote areas like the Aoraki Mackenzie International Dark Sky Reserve.
+</ul>
+These are just a few reasons why travelers from around the world are drawn to the beauty and adventure of New Zealand.
+<br></br>
+Here are some details about the New Zealand visitor visa:
+<br></br>
+<ul>
+<b>1. **Eligibility:**</b> You must meet certain criteria, including having a valid passport, a clear intention to visit for a temporary purpose (such as tourism, visiting friends or family, or attending a short course), and the ability to support yourself financially during your stay.
+<br></br>
+<b>2. **Duration:**</b> The visitor visa typically allows stays of up to 9 months.
+<br></br>
+
+<b>3. **Required documents:**</b> You'll need to provide documents such as your passport, proof of funds to support yourself during your stay, a return ticket, and any additional documents requested by Immigration New Zealand.
+<br></br>
+
+<b>4. **Application fee:**</b> There is a fee to apply for the visitor visa, which varies depending on your nationality and the method of application.
+<br></br>
+
+<b>5. **Processing time:**</b> Processing times vary, so it's essential to apply well in advance of your planned travel dates.
+<br></br>
+
+<b>6. **Conditions:**</b> Once approved, the visitor visa may have conditions attached, such as not being allowed to work during your stay.
+<br></br>
+
+<b>7. **Validity:**</b> The visitor visa is typically valid for a single entry, but multiple-entry visas are available in some cases.
+</ul></div>
     }
     useEffect(()=>{
         window.scrollTo(0,0);

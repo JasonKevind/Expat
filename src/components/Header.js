@@ -47,9 +47,15 @@ export const Header=()=>{
                             <p onClick={(e)=>{
                                 nav("/StudyVisa",{state:{country:"australia"}})
                             }}>Australia</p>
+                                    <p onClick={(e)=>{
+                                nav("/StudyVisa",{state:{country:"New Zealand"}})
+                            }}>New Zealand</p>
                             <p onClick={(e)=>{
                                 nav("/StudyVisa",{state:{country:"canada"}})
                             }}>Canada</p>
+                               <p onClick={(e)=>{
+                                nav("/StudyVisa",{state:{country:"USA"}})
+                            }}>USA</p>
                              <p onClick={(e)=>{
                                 nav("/StudyVisa",{state:{country:"germany"}})
                             }}>Germany</p>
@@ -78,11 +84,14 @@ export const Header=()=>{
                                 nav("/VisitVisa",{state:{country:"hongkong"}})
                             }}>HongKong</p>
                             <p onClick={(e)=>{
-                                nav("/VisitVisa",{state:{country:"usa"}})
+                                nav("/VisitVisa",{state:{country:"USA"}})
                             }}>USA</p>
                              <p onClick={(e)=>{
                                 nav("/VisitVisa",{state:{country:"australia"}})
                             }}>Australia</p>
+                                 <p onClick={(e)=>{
+                                nav("/VisitVisa",{state:{country:"New Zealand"}})
+                            }}>New Zealand</p>
                             <p onClick={(e)=>{
                                 nav("/VisitVisa",{state:{country:"france"}})
                             }}>France</p>
