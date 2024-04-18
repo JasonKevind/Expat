@@ -2,7 +2,7 @@
 .Header
 {height: clamp(45px,20vh, 100px);background-color: rgb(175, 143, 223,0.65);z-index: 100;box-shadow: -2px -4px 9px 6px black;width: 100%;}
 .Header>div:nth-child(1)>img
-{height:70px;width:85px; object-fit:fill;margin-left:5%;border-radius:70px;}
+{height:100px;width:100px; object-fit:fill;margin-left:5%;border-radius:70px;}
 .Header,.Header>div:nth-child(1),
 .Header>div:nth-child(2),Img>div
 {display: flex;}
@@ -135,7 +135,6 @@ display: flex;
   height: fit-content; /* Adjust height as needed */
   overflow: hidden;
 }
-
 .text-area {
   width: clamp(300px,50%,500px);
   height: 100%;
@@ -145,7 +144,6 @@ display: flex;
   padding: 8px;
   box-sizing: border-box;
 }
-
 @media only screen and (max-width:800px) {
   .Header{
     flex-direction: column;
@@ -160,7 +158,6 @@ display: flex;
   }
   #Right{display: none;}
   .Header>div:nth-child(2)>div{
-    
     width: 100%;
     padding:1%;align-items: center;
   }
@@ -174,7 +171,6 @@ display: flex;
   .MainContent>div:nth-child(1),.MainContent>div:nth-child(2){
     justify-content: center;
     width: 100%;align-items: center;
-  
   }
   .text-area{width: clamp(190px,90%,410px)}
   #form{background-color: rgb(175, 143, 223,0.2);}

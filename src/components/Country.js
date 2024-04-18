@@ -5,6 +5,7 @@ import { MainContent } from './MainContent';
 import { Header } from './Header';
 import { ReadMore } from './ReadMore';
 import { Flags } from './Flags';
+import { useEffect } from 'react';
 export const Country=()=>{
     const loc=useLocation();
     const basic="You can view the details from tourism to educational purposes below...";
@@ -86,7 +87,9 @@ natural grandeur, profound heritage, and gracious hospitality.....<br></br><Read
         </div>}
         ]}
         }
-            
+    useEffect((e)=>{
+        window.scrollTo(0,0);
+    },[loc.pathname])       
     return(
         <>
             {

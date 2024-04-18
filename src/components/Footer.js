@@ -4,7 +4,7 @@ export const Footer=()=>{
         <div className='Footer'>
             <div>
             <div>
-            <div style={{width:'100px',height:'80px'}}>
+            <div style={{width:'105px',height:'105px'}}>
             <img loading='lazy' style={{width:'100%',height:'100%'}} alt='Not found' src={require("../LOGO PNG.png")}  />
             </div>
             </div>
