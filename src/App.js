@@ -1,4 +1,4 @@
-import { Route, Routes } from 'react-router-dom';
+import { Route, Routes, useLocation } from 'react-router-dom';
 import './App.css';
 import { Footer } from './components/Footer';
 import { Home } from './components/Home';
@@ -13,10 +13,15 @@ import { WorkVisa } from './components/WorkVisa';
 import { Contact } from './components/Contact';
 import { Register } from './components/Register';
 import { Family } from './components/Family';
+import { useEffect } from 'react';
 function App() {
+  const loc=useLocation();
+  useEffect((e)=>{
+    if(loc.pathname==="/Country")window.scroll(0,0);
+    
+  },[loc.pathname])
   return (
    <div className="App">
-    
      <Routes>
         <Route index path="/" element={<Home flags={true} />} />
         <Route path="/Country" element={<Country />} />
