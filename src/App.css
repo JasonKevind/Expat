@@ -2,7 +2,7 @@
 .Header
 {height: clamp(45px,20vh, 100px);background-color: rgb(175, 143, 223,0.65);z-index: 100;box-shadow: -2px -4px 9px 6px black;width: 100%;}
 .Header>div:nth-child(1)>img
-{height:100px;width:100px; object-fit:fill;margin-left:5%;border-radius:70px;}
+{height:105px;width:105px; object-fit:fill;margin-left:5%;border-radius:70px;}
 .Header,.Header>div:nth-child(1),
 .Header>div:nth-child(2),Img>div
 {display: flex;}
