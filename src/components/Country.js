@@ -9,8 +9,8 @@ import { useEffect } from 'react';
 export const Country=()=>{
     const loc=useLocation();
     useEffect((e)=>{
-        window.scrollTo(0,0);
-    })
+        window.scrollTo({top:0});
+    },[loc.pathname])
     const basic="You can view the details from tourism to educational purposes below...";
     const data={"uk":{headimg:"ukhome.JPG","headinfo":basic,"maincontent":[
                 {"main":"mainuk","img":"ukstudy.JPG","head":"Why to study in UK","info":<div>A degree from a UK institution could be a to proficient success. Wherever within the world you select to seek after your career, a degree from a college within the joined together Kingdom is globally regarded and considered quality instruction.....<br></br>
